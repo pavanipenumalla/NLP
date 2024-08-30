@@ -1,0 +1,1422 @@
+avg perplexity: 13876046339.851923
+<s> <s> the village of longbourn was only one mile from meryton a most convenient distance for the young ladies who were usually tempted thither three or four times a week to pay their duty to their aunt and to a <unk> s shop just over the way </s>	2115949.390370404
+<s> <s> my <unk> said elizabeth do not <unk> over this instrument in the <unk> manner which i see so many women s do </s>	133685.86477387536
+<s> <s> if he fears me why come <unk> </s>	1256632.0183396153
+<s> <s> an invitation to dinner was soon afterwards dispatched and already had mrs </s>	1494715.7101317598
+<s> <s> pray <unk> for my having disliked him so much before </s>	1369433.1456556565
+<s> <s> her favourite walk and where she frequently went while the others were calling on lady catherine was along the open <unk> which edge <unk> that side of the park where there was a nice <unk> path which no one seemed to value but herself and where she felt beyond the reach of lady catherine s curiosity </s>	5987154.727029921
+<s> <s> can i speak <unk> </s>	871653.7569206835
+<s> <s> elizabeth laughed heartily at this picture of herself and said to colonel fitzwilliam your cousin will give you a very pretty notion of me and teach you not to believe a word i say </s>	7637161.806476296
+<s> <s> collins s letter and after laughing at her some time allowed her at last to go saying as she quitted the room if any young men come for mary or kitty send them in for i am quite at leisure </s>	737604.5902438434
+<s> <s> my good qualities are under your <unk> and you are to <unk> them as much as possible and in return it <unk> to me to find occasions for teazing and <unk> with you as often as may be and i shall begin directly by asking you what made you so unwilling to come to the point at last </s>	9165727.223319437
+<s> <s> no indeed </s>	1364422492.3304126
+<s> <s> you may copy it give it away or it under the terms of the project gutenberg license included with this ebook or online at www gutenberg org <unk> pride and prejudice author jane <unk> <unk> r </s>	14149591528.705484
+<s> <s> miss bennet i am shocked and astonished </s>	145341770.41850257
+<s> <s> darcy was really the object of her choice by <unk> the <unk> change which her estimation of him had <unk> relating her absolute certainty that his affection was not the work of a day but had stood the <unk> of many months suspense and enumerating with energy all his good qualities she did <unk> her father s <unk> and <unk> him to the match </s>	1730841.2506179533
+<s> <s> one cannot know what a man really is by the end of a fortnight </s>	523456850.4716523
+<s> <s> with all these circumstances to favour an attachment and nothing to prevent it am i wrong my dearest jane in <unk> the hope of an event which will secure the happiness of so many </s>	946879.0299218186
+<s> <s> his arrival was soon known at the parsonage for mr </s>	6079309.72800155
+<s> <s> mr </s>	736070643.2743852
+<s> <s> bingley s will always be welcome here to be sure but else i must say that i hate the very sight of him </s>	3352598.4391217274
+<s> <s> they gradually <unk> for half a mile and then found themselves at the <unk> of a considerable <unk> where the <unk> ceased and the eye was instantly caught by pemberley house <unk> on the opposite side of a <unk> into which the road with some <unk> <unk> </s>	758955.0204789805
+<s> <s> lady lucas began directly to <unk> with more interest than the matter had ever excited before how many years longer mr </s>	196021.15671207104
+<s> <s> miss elizabeth bennet </s>	53649458.99819819
+<s> <s> and till colonel forster came himself not one of you entertained a doubt i suppose of their being really married </s>	1548839.897580847
+<s> <s> her brother whose eye she feared to meet scarcely recollected her interest in the affair and the very circumstance which had been designed to turn his thoughts from elizabeth seemed to have fixed them on her more and more <unk> </s>	2118587.93231426
+<s> <s> and his sisters are charming women </s>	7964644.387478386
+<s> <s> our situation with regard to lady catherine s family is indeed the sort of extraordinary advantage and blessing which few can boast </s>	866880.0293378122
+<s> <s> but <unk> he came back again in ten minutes time and then we all set out </s>	910445.4583913637
+<s> <s> collins much offended laid <unk> his book and said i have often observed how little young ladies are interested by books of a serious <unk> though written <unk> for their benefit </s>	1125599.732338819
+<s> <s> but is it certain absolutely certain </s>	275897.90335518337
+<s> <s> the surprise of the rest of the family on hearing who their visitor had been was very great but they <unk> satisfied it with the same kind of supposition which had <unk> mrs </s>	7265277.30884916
+<s> <s> but lizzy you have been very <unk> very reserved with me </s>	27640312.70664562
+<s> <s> bingley himself instead of a <unk> card </s>	2802940.114802894
+<s> <s> wickham began to speak on more general <unk> meryton the neighbourhood the society appearing highly pleased with all that he had yet seen and speaking of the latter especially with gentle but very <unk> gallantry </s>	655222.8269975093
+<s> <s> colonel forster came yesterday having left brighton the day before not many hours after the express </s>	673996.0087444355
+<s> <s> she was even sensible of some pleasure though <unk> with regret on finding how <unk> both she and her uncle had been persuaded that affection and confidence <unk> between mr </s>	819508.8723446915
+<s> <s> wickham indeed had gone to her on their first arrival in london and had she been able to receive them into her house they would have taken up their abode with her </s>	16180773.843610158
+<s> <s> <unk> s </s>	84108.49199383894
+<s> <s> who instantly taking the alarm set off from <unk> </s>	276421.124809859
+<s> <s> but i suppose you had no opportunity </s>	655332158.2216741
+<s> <s> had lydia s marriage been concluded on the most honourable terms it was not to be supposed that mr </s>	39479930.19667556
+<s> <s> it was <unk> from rosings at eigh t o clock in the morning and was as follows be not alarmed madam on receiving this letter by the apprehension of its <unk> any <unk> of those sentiments or renewal of those offers which were last night so <unk> to you </s>	1195967.5679418
+<s> <s> collins too why should have it more than anybody else </s>	196935.7892513721
+<s> <s> no arguments shall be wanting on my part that can <unk> so severe a misfortune or that may comfort you under a circumstance that must be of all others most <unk> to a <unk> s mind </s>	1476979.152233967
+<s> <s> darcy appeared again when looking at him she was a little relieved by his smile </s>	10014173.683661498
+<s> <s> elizabeth had the satisfaction of seeing her father taking <unk> to get acquainted with him and mr </s>	176202336.98094365
+<s> <s> if such goodness does not make her miserable now she will never deserve to be happy </s>	2837638.041217534
+<s> <s> they are generally long but whether always charming it is not for me to determine </s>	10237085.987488564
+<s> <s> philips s house and then made their <unk> in spite of miss lydia s <unk> <unk> that they would come in and even in spite of mrs </s>	5205467.972945779
+<s> <s> a lady s <unk> is very <unk> it <unk> from admiration to love from love to matrimony in a moment </s>	1068496.2661302297
+<s> <s> collins for the knowledge of what carriages went along and how often especially miss de bourgh drove by in her <unk> which he never <unk> coming to inform them of though it happened almost every day </s>	1782970.0128559074
+<s> <s> but do not imagine that he is always here so often </s>	542708986.5987825
+<s> <s> i know not what to think </s>	13090917227.748722
+<s> <s> jane had sent caroline an early answer to her letter and was <unk> the days till she might reasonably hope to hear again </s>	2841163.1940276287
+<s> <s> occupied in observing mr </s>	3620605.8177966825
+<s> <s> in his present behaviour to herself moreover she had a fresh source of displeasure for the inclination he soon <unk> of <unk> those attentions which had marked the early part of their acquaintance could only <unk> after what had since passed to provoke her </s>	1464744.3772983467
+<s> <s> darcy and their niece directed their observation towards each with an earnest though guarded enquiry and they soon drew from those enquiries the full conviction that one of them at least knew what it was to love </s>	1715796.5774735997
+<s> <s> before any answer could <unk> from mr </s>	2819159.40579528
+<s> <s> your mother <unk> upon your <unk> it </s>	3427762.7741714194
+<s> <s> young ladies have great <unk> in such matters as these but i think i may defy even <unk> to discover the name of your <unk> </s>	8214842.8040781785
+<s> <s> copyright laws in most <unk> are in a constant state of change </s>	88372.07658007677
+<s> <s> but she is perfectly amiable and often <unk> to drive by my humble abode in her little <unk> and <unk> </s>	2769878.5171710327
+<s> <s> she <unk> his abilities much <unk> than any of the others there was a <unk> in his reflections which often struck her and though by no means so clever as herself she thought that if encouraged to read and <unk> himself by such an <unk> as her s he might become a very agreeable companion </s>	3340790.9834227767
+<s> <s> bingley s name was scarcely ever mentioned between them </s>	1180031036.003892
+<s> <s> i had not believed it possible </s>	94622927.70074816
+<s> <s> their manner of living even when the <unk> of peace <unk> them to a home was <unk> in the <unk> </s>	323584.6389637794
+<s> <s> the motive professed was his conviction of its being <unk> to himself that wickham s <unk> had not been so well known as to make it impossible for any young woman of character to love or <unk> in him </s>	7623701.774900905
+<s> <s> gardiner who was not a great <unk> could go no farther and thought only of returning to the carriage as quickly as possible </s>	28796522.674920812
+<s> <s> i must not decide on my own performance </s>	5591961.425017831
+<s> <s> oh </s>	2500388979.216371
+<s> <s> mr </s>	736070643.2743852
+<s> <s> wickham <unk> amongst several other <unk> over the </s>	263553.83043989015
+<s> <s> she has known him only a fortnight </s>	7648188.381428295
+<s> <s> from the very beginning from the first moment i may almost say of my acquaintance with you your manners <unk> me with the <unk> belief of your <unk> your conceit and your selfish disdain of the feelings of others were such as to form that of disapprobation on which <unk> events have <unk> so <unk> a dislike and i had not known you a month before i felt that you were the last man in the world whom i could ever be prevailed on to marry </s>	2607623.225037844
+<s> <s> she perfectly remembered every thing that had passed in conversation between wickham and herself in their first evening at mr </s>	1355796.6701923453
+<s> <s> the story which followed of his designs on miss darcy received some <unk> from what had passed between colonel fitzwilliam and herself only the morning before and at last she was <unk> for the truth of every particular to colonel fitzwilliam himself from whom she had <unk> received the information of his near concern in all his cousin s affairs and whose character she had no reason to question </s>	6314415.273288675
+<s> <s> darcy s objections and never had she before been so much disposed to pardon his interference in the views of his friend </s>	6351679.061332843
+<s> <s> the dinner was exceedingly handsome and there were all the servants and all the <unk> of <unk> which mr </s>	3075444.4502685145
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> could you expect me to rejoice in the <unk> of your connections </s>	899760.2693693178
+<s> <s> and it was not wholly without foundation </s>	3142139056.336073
+<s> <s> she approached and saw the <unk> of mr </s>	663988.8654325175
+<s> <s> lizzy you must walk out with him again that he may not be in bingley s way </s>	54285143.07792745
+<s> <s> but do not deceive yourself into a belief that i will ever <unk> </s>	1491339.62793556
+<s> <s> i was very much flattered by his asking me to dance a second time </s>	79229626.24888591
+<s> <s> yes but he seemed to like his second better </s>	8047553.41689159
+<s> <s> intending to <unk> their <unk> </s>	87006.85237821119
+<s> <s> he then asked her to walk into the house but she declared herself not <unk> and they stood together on the lawn </s>	7222534.501251663
+<s> <s> now i have got some news for you said lydia as they sat down to table </s>	271286413.26396286
+<s> <s> certainly not </s>	1963322903.3590002
+<s> <s> the gentlemen came and she thought he looked as if he would have answered her hopes but <unk> </s>	560485524.1515232
+<s> <s> darcy approaching them and at no great distance </s>	217738.65997451392
+<s> <s> i have been <unk> on the very great pleasure which a <unk> of fine eyes in the face of a pretty woman can bestow </s>	1343443.737503133
+<s> <s> i am sure there is not on </s>	58788923.45476073
+<s> <s> what a triumph for him as she often thought could he know that the proposals which she had <unk> <unk> only four months ago would now have been <unk> and gratefully received </s>	7208337.965336125
+<s> <s> i do think it is the <unk> thing in the world that your estate should be entailed away from your own children and i am sure if i had been you i should have tried long ago to do something or other about it </s>	24494243.696430255
+<s> <s> cried mrs </s>	376223561206.91046
+<s> <s> darcy </s>	1238821253.4508119
+<s> <s> he answered her in the same style and the subject <unk> </s>	7827105.319440609
+<s> <s> if therefore she actually <unk> in <unk> my suit perhaps it were better not to force her into <unk> me because if <unk> to such defects of temper she could not <unk> much to my felicity </s>	422723.1650239314
+<s> <s> a little </s>	324540806950.46173
+<s> <s> upon the whole therefore she found what has been sometimes found before that an event to which she had looked forward with impatient desire did not in taking place bring all the satisfaction she had promised herself </s>	5528052.496905918
+<s> <s> their fortune on both <unk> is <unk> </s>	344100.555129857
+<s> <s> i dare say mr </s>	55997887264.09637
+<s> <s> his father miss bennet the late mr </s>	550821831.002841
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> she wanted to hear of him when there seemed the least chance of <unk> intelligence </s>	9303186.504523112
+<s> <s> what congratulations will then flow in </s>	360525.20700909523
+<s> <s> i am perfectly convinced by it that mr </s>	239834891.54844466
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> oh </s>	2500388979.216371
+<s> <s> every disposition of the ground was good and she looked on the whole scene the river the trees <unk> on its <unk> and the <unk> of the <unk> as far as she could <unk> it with delight </s>	334408.0555556375
+<s> <s> mr </s>	736070643.2743852
+<s> <s> elizabeth saw directly that her father had not the smallest intention of <unk> but his <unk> were at the same time so <unk> and <unk> that her mother though often <unk> had never yet <unk> of <unk> at last </s>	7221071.690604794
+<s> <s> my dear continued mrs </s>	124229711.11312595
+<s> <s> it will be turn soon to be <unk> said miss lucas </s>	76583180.13045186
+<s> <s> jane was beyond <unk> her favourite child </s>	1415915.3912545238
+<s> <s> bennet who fancied she had gained a complete <unk> over him continued her triumph </s>	5169317.026418307
+<s> <s> no said darcy i have made no such <unk> </s>	8174367.210371689
+<s> <s> jane who was not so light nor so much in the habit of running as elizabeth soon <unk> behind while her sister <unk> for <unk> came up with him and eage rly cried out oh papa what news </s>	6810826.962019929
+<s> <s> but i know the foundation is <unk> </s>	97327577.29527646
+<s> <s> she talked on therefore without interruption from any of them till they were joined by mr </s>	74412072.85921627
+<s> <s> they will then join his regiment unless they are first invited to longbourn and i understand from mrs </s>	4801980.362654933
+<s> <s> very true indeed and now my dear jane what have you got to say in behalf of the interested people who have probably been concerned in the business do clear too or we shall be obliged to think ill of somebody </s>	3605111.2920847335
+<s> <s> oh your uncle he <unk> a does he i am very glad you have somebody who thinks of those things </s>	3048438.1205395246
+<s> <s> elizabeth made no answer </s>	650958084.4756387
+<s> <s> mr </s>	736070643.2743852
+<s> <s> thought she </s>	42449014.488020815
+<s> <s> they talked of his sister his friends his house his <unk> of every thing but himself yet elizabeth was <unk> to know what mrs </s>	3939580.4853987982
+<s> <s> it is very hard to think that she might have been mr </s>	714384007.7481365
+<s> <s> bennet in the <unk> was giving way to all the happy schemes which the good humour and common politeness of bingley in half an hour s visit had <unk> </s>	8765984.932609985
+<s> <s> family pride and pride for he is very proud of what his father was have done this </s>	4072226.1339577367
+<s> <s> elizabeth made no attempt to reason with her mother but remained quietly in the hall till she and kitty were out of sight then returned into the </s>	139958541.0826519
+<s> <s> compliments always take by surprise and never </s>	905616.2132218184
+<s> <s> you expect me to account for opinions which you chuse to call mine but which i have never acknowledged </s>	2464476.5366115104
+<s> <s> elizabeth honestly and heartily expressed her delight in the prospect of their relationship </s>	4533590.4025654625
+<s> <s> nothing but concern for elizabeth could <unk> bingley to keep his countenance </s>	905833.3523077426
+<s> <s> bennet who had persuaded herself that her husband <unk> the affair as she wished was excessively disappointed </s>	7419112.875401987
+<s> <s> in <unk> cases out of ten a woman had better shew affection than she feels </s>	163214.48091755286
+<s> <s> the word is applied to many a woman who deserves it no otherwise than by <unk> a <unk> or <unk> a <unk> </s>	258046.51665223096
+<s> <s> is it not clear enough does it not <unk> declare that caroline neither <unk> nor wishes me to be her sister that she is perfectly convinced of her brother s indifference and that if she <unk> the nature of my feelings for him she means most kindly to put me on my guard </s>	2573781.127364623
+<s> <s> after walking some time in this way the two ladies in <unk> the two gentlemen behind on <unk> their places after <unk> to the <unk> of the river for the better <unk> of some curious there <unk> to be a little alteration </s>	4471099.7762414
+<s> <s> his <unk> and his <unk> appear by your account to be the same said elizabeth <unk> for i have heard you <unk> him of nothing worse than of being the son of mr </s>	1444848.3203426893
+<s> <s> his complexion became pale with anger and the <unk> of his mind was visible in every <unk> </s>	430710.1079635578
+<s> <s> from their <unk> they have been intended for each other </s>	3089541.6142844562
+<s> <s> however i did not hear above one word in ten for i was thinking you may suppose of my dear wickham </s>	5298811.981615811
+<s> <s> i know very well madam said he that when persons sit down to a card table they must take their chance of these things and happily i am not in such circumstances as to make five <unk> any object </s>	6060169.287344565
+<s> <s> i must go instantly to my mother she cried </s>	2632418.745228798
+<s> <s> lord </s>	3125082264595.5293
+<s> <s> she <unk> <unk> of all this to her husband </s>	190977249.7705593
+<s> <s> shall we ask your cousin the reason of this </s>	67728724.38829657
+<s> <s> my dear friend if you are not so <unk> as to dine with louisa and me we shall be in danger of <unk> each other for the rest of our lives for a whole day s tête between two women can never end without a <unk> </s>	1425070.8810840943
+<s> <s> nobody can tell what i suffer but it is always so </s>	1070437.307014337
+<s> <s> is this to be <unk> </s>	2347345461.69848
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> elizabeth felt jane s pleasure </s>	4748666.424916602
+<s> <s> good gracious </s>	300499235.2548074
+<s> <s> let me be <unk> understood </s>	3752858.3966609393
+<s> <s> i do assure you that the news does not <unk> me either with pleasure or pain </s>	7843929.303263573
+<s> <s> darcy is impatient to see his sister and to confess the truth are scarcely less eage r to meet her again </s>	2410526.0528335706
+<s> <s> he now wished it more than ever </s>	2594696.771219222
+<s> <s> that such a consequence as should <unk> you may easily believe was far enough from my thoughts </s>	227741.20751442626
+<s> <s> but don t imagine it was from any silly cause </s>	998274.809664455
+<s> <s> far be it from me he <unk> continued in a voice that marked his displeasure to resent the behaviour of your daughter </s>	22562963.065833203
+<s> <s> she wished to <unk> it entirely repeatedly <unk> this must be false </s>	12179498.41239547
+<s> <s> <unk> was in meryton last night i saw her passing by and went out myself on purpose to know the truth of it and she told me that it was certain true </s>	18804843.84876863
+<s> <s> collins s addresses by enga <unk> them towards herself </s>	661144.821355261
+<s> <s> you must not suspect me </s>	16362234.071554549
+<s> <s> elizabeth related to jane the next day what had passed between mr </s>	124028166.04890898
+<s> <s> you see how continually we are enga ged there </s>	34858008.35233622
+<s> <s> elizabeth was ready to speak whenever there was an opening but she was seated between charlotte and miss de bourgh the former of whom was enga ged in listening to lady catherine and the latter said not a word to her all dinner time </s>	6253012.7273707725
+<s> <s> <unk> military library <unk> </s>	86434.60617629811
+<s> <s> elizabeth who was left by herself now smiled at the <unk> and ease with which an affair was finally settled that had given them so many previous months of suspense and vexation </s>	1832897.2045938363
+<s> <s> bingley was all grateful pleasure and he readily enga ged for taking the earliest opportunity of waiting on her after his return from london <unk> he was obliged to go the next day for a short time </s>	7723604.9562810855
+<s> <s> i know my dear uncle and aunt so well that i am not afraid of <unk> it though i have still something more to ask of the former </s>	77101938.01084298
+<s> <s> i will take care of myself and of mr </s>	185858932.5814897
+<s> <s> happy for all her <unk> feelings was the day on which mrs </s>	5458551.097129686
+<s> <s> she was in no humour for conversation with any one but himself and to him she had hardly courage to speak </s>	442782323.6115697
+<s> <s> four <unk> of paper were insufficient to contain all her delight and all her earnest desire of being loved by her sister </s>	12277874.161020996
+<s> <s> are the others coming out </s>	294777001.30904204
+<s> <s> wickham is not so <unk> then as we have thought him said her sister </s>	9781781.37515051
+<s> <s> bennet delighted to speak to a lady catherine </s>	4302160.551341058
+<s> <s> the country said darcy can in general supply but few subjects for such a study </s>	713203.0240599663
+<s> <s> jones s being sent for immediately while his sisters convinced that no country advice could be of any service recommended an express to town for one of the most <unk> <unk> </s>	709418.5623271824
+<s> <s> how can mr </s>	17792172.989963755
+<s> <s> had she found jane in any <unk> danger mrs </s>	1765231.5243906945
+<s> <s> after walking two or three times along that part of the lane she was tempted by the <unk> of the morning to <unk> at the <unk> and look into the park </s>	14828887.758630674
+<s> <s> darcy may <unk> himself </s>	18547642.86948282
+<s> <s> you forget that i have made no answer </s>	10366033.716280842
+<s> <s> to complete the favourable impression she then told him what mr </s>	3896907.810991176
+<s> <s> collins s side and as many <unk> on sir william s they <unk> </s>	1110772.434662278
+<s> <s> wickham s charge exceedingly shocked her the more so as she could bring no proof of its injustice </s>	503096.943474872
+<s> <s> oh </s>	2500388979.216371
+<s> <s> hurst had a house </s>	32394779.978821903
+<s> <s> oh </s>	2500388979.216371
+<s> <s> collins was to attend them at the request of mr </s>	147748313.18757135
+<s> <s> the favour of your company has been much felt i assure you </s>	5417839.933289575
+<s> <s> but i hope you will not mind it it is all for jane s sake you know and there is no occasion for talking to him except just now and then </s>	75153724.9562979
+<s> <s> i have been a disappointed man and my spirits will not bear <unk> </s>	1593224.9591113355
+<s> <s> more <unk> and less anxiety to please than when they last met were plainly expressed </s>	285429.83655005094
+<s> <s> how can you <unk> to write so even </s>	3401480.934086116
+<s> <s> there is a mixture of <unk> and in his letter which <unk> well </s>	33536372.950927928
+<s> <s> you know of course that lady catherine de bourgh and lady anne darcy were sisters consequently that she is aunt to the present mr </s>	69427195.26826799
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> elizabeth as she affectionately <unk> her <unk> tears <unk> the eyes of both lost not a moment in asking whether any thing had been heard of the <unk> </s>	1401594.400299817
+<s> <s> i would keep a <unk> of <unk> and drink a <unk> of <unk> every day </s>	426088.71638312156
+<s> <s> darcy would never have come so soon to wait upon me </s>	1165620.1285560282
+<s> <s> wickham of course wanted more than he could get but at length was reduced to be reasonable </s>	23907486.47127783
+<s> <s> long will do any such thing </s>	6477410.663007994
+<s> <s> gardiner was so little to be trusted </s>	233454674.66751084
+<s> <s> darcy is enga ged to </s>	355975389.52888525
+<s> <s> i am afraid i <unk> your solitary <unk> my dear sister </s>	7470922.173304705
+<s> <s> single my dear to be sure </s>	92140432.57196018
+<s> <s> a little would set me up for ever </s>	8141617.27397087
+<s> <s> i will only add <unk> <unk> you </s>	9239673.532691283
+<s> <s> tell me once for all are you enga ged to him </s>	1025025.1316636585
+<s> <s> jane was already so much recovered as to <unk> leaving her room for a couple of hours that evening </s>	165249800.56526768
+<s> <s> i had not an idea of it </s>	153656033.21442574
+<s> <s> one ought not to <unk> but to be sure it would have been such a thing for me </s>	79273436.84397218
+<s> <s> i am going to <unk> <unk> and if you cannot guess with who i shall think you a simpleton for there is but one man in the world i love and he is an <unk> </s>	14912047.310564162
+<s> <s> oh </s>	2500388979.216371
+<s> <s> in spite of this <unk> however she <unk> to have a note sent to longbourn <unk> her mother to visit jane and form her own judgment of her situation </s>	1286420.1791616564
+<s> <s> bingley was <unk> to his <unk> and he and mr </s>	1541948.8669624298
+<s> <s> it was a subject which they could not mention before me </s>	14355083.803264618
+<s> <s> did not you </s>	88407816.06776704
+<s> <s> shall you like to have such a brother </s>	268663452.63051456
+<s> <s> collins made his declaration in form </s>	309327.5288834237
+<s> <s> she was <unk> by shame and vexation </s>	92955269.1961067
+<s> <s> if they believed him attached to me they would not try to part us if he were so they could not <unk> </s>	3113129.2680684803
+<s> <s> my dear niece i have just received your letter and shall <unk> this whole morning to <unk> it as i <unk> that a writing will not <unk> what i have to tell you </s>	2776623.5058913543
+<s> <s> the one <unk> must be first attended to it had been written five days ago </s>	3116057.7429460553
+<s> <s> jane looked at elizabeth with surprise and concern </s>	12758596.410253687
+<s> <s> darcy was writing and miss bingley seated near him was watching the progress of his letter and repeatedly calling off his attention by <unk> to his sister </s>	1798159.75927908
+<s> <s> our poor mother is <unk> grieved </s>	221934.95385954846
+<s> <s> i want to be told whether i ought or ought not to make our acquaintance in general understand wickham s character </s>	57478185.56935965
+<s> <s> elizabeth noticed every sentence <unk> the idea of uneasiness with an attention which it had hardly received on the first perusal </s>	447794.44586337183
+<s> <s> oh </s>	2500388979.216371
+<s> <s> perhaps he must if he sees enough of her </s>	6411878.38943107
+<s> <s> what you ask said elizabeth is no sacrifice on my side and mr </s>	3984099.467120424
+<s> <s> she then proceeded to enquire into the <unk> which her father had intended to pursue while in town for the <unk> of his daughter </s>	7375517.729567111
+<s> <s> his behaviour was attentive and kind to the utmost </s>	6958010.271275009
+<s> <s> but mr </s>	13047757947.736416
+<s> <s> yet he is a man </s>	26094266681.695835
+<s> <s> bennet scarcely spoke at all but when the servants were <unk> he thought it time to have some conversation with his <unk> and therefore started a subject in which he expected him to <unk> by observing that he seemed very fortunate in his patroness </s>	3189050.1522618807
+<s> <s> the marriage of a daughter which had been the first object of her wishes since jane was sixteen was now on the point of <unk> and her thoughts and her words ran wholly on those <unk> of elegant <unk> fine <unk> new carriages and servants </s>	2054201.4821785858
+<s> <s> when they were all in the the questions which elizabeth had already asked were of course repeated by the others and they soon found that jane had no intelligence to give </s>	105291427.46819523
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> as they passed through the hall lady catherine opened the doors into the and and <unk> them after a short <unk> to be <unk> looking rooms walked on </s>	785836.915063317
+<s> <s> he may live in my memory as the most amiable man of my acquaintance but that is all </s>	3621601.5525386953
+<s> <s> wickham no i certainly am not </s>	5153557.01850015
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> i can remember no symptom of affection on either side and had any thing of the kind been <unk> you must be aware that <unk> is not a family on which it could be thrown away </s>	13884694.142692408
+<s> <s> hurst and her sister scarcely opened their <unk> except to complain of <unk> and were evidently impatient to have the house to themselves </s>	5522783.6679526325
+<s> <s> hurst and miss bingley they were noticed only by a <unk> and on their being seated a pause awkward as such <unk> must always be succeeded for a few moments </s>	2068970.1361099721
+<s> <s> they were within twenty <unk> of each other and so <unk> was his appearance that it was impossible to avoid his sight </s>	2467527.0921804626
+<s> <s> nor am i ashamed of the feelings i related </s>	272919.36722472834
+<s> <s> section </s>	10484691660581.445
+<s> <s> i have not a doubt of your doing very well together </s>	146469445.72943
+<s> <s> kitty <unk> that she had rather stay at home </s>	17097379.07772527
+<s> <s> besides it will not much <unk> what one <unk> this summer after the shire have left meryton and they are going in a fortnight </s>	5337342.983729921
+<s> <s> oh </s>	2500388979.216371
+<s> <s> good <unk> </s>	3886107.386803797
+<s> <s> i know little of the game at present said he but i shall be glad to <unk> myself for in my situation of life mrs </s>	2221121.6207651286
+<s> <s> that he had <unk> his <unk> in the first dance </s>	3108178.472460708
+<s> <s> mr </s>	736070643.2743852
+<s> <s> she wished him to know that she had been assured of his absence before she came to the place and accordingly began by observing that his arrival had been very unexpected for your housekeeper she added informed us that you would certainly not be here till and indeed before we left <unk> we understood that you were not immediately expected in the country </s>	24053958.233205885
+<s> <s> it was gratitude gratitude not merely for having once loved her but for <unk> her still well enough to forgive all the <unk> and <unk> of her manner in <unk> him and all the <unk> <unk> <unk> her <unk> </s>	506938.7122632699
+<s> <s> why especially when you called did you look as if you did not care about me </s>	233913902.23098952
+<s> <s> come darcy said he i must have you dance </s>	2268243.258348602
+<s> <s> there shut into her own room as soon as their visitor left them she could think without interruption of all that she had heard </s>	23735189.63294709
+<s> <s> i am not so selfish however as to <unk> for it if <unk> </s>	637063.3765593144
+<s> <s> my poor father </s>	901935.4097609038
+<s> <s> but elizabeth was not formed for and though every prospect of her own was <unk> for the evening it could not <unk> long on her spirits and having told all her <unk> to charlotte lucas whom she had not seen for a week she was soon able to make a <unk> <unk> to the <unk> of her cousin and to point him out to her particular notice </s>	3527221.4017683524
+<s> <s> certain it is that the living became vacant two years ago exactly as i was of an age to hold it and that it was given to another man and no less certain is it that i cannot <unk> myself of having really done any thing to deserve to lose it </s>	687498.9253650039
+<s> <s> i have not the smallest hope </s>	120925989.83147472
+<s> <s> darcy s letter to lady catherine was in a different style and still different from either was what mr </s>	53663934.350606605
+<s> <s> and so you like this man s sisters too do you </s>	2288613.8777768654
+<s> <s> elizabeth said as little to either as civility would allow and sat down again to her work with an eage rness which it did not often command </s>	4332917.032722362
+<s> <s> she is a handsome girl about <unk> or sixteen and i understand highly accomplished </s>	2351843.090087092
+<s> <s> mr </s>	736070643.2743852
+<s> <s> what are we to do </s>	3114301.7623264478
+<s> <s> if he is satisfied with only <unk> me when he might have <unk> my affections and hand i shall soon <unk> to regret him at all </s>	2950403.091161757
+<s> <s> indeed i do not dare </s>	48337653.03998852
+<s> <s> i have a high respect for your nerves </s>	3398958.811259164
+<s> <s> is my father in town </s>	1644113.0679158417
+<s> <s> your surprise could not be greater than in being noticed by you </s>	461545.95372015913
+<s> <s> her heart was <unk> between concern for her sister and resentment against all the others </s>	10569018.039805403
+<s> <s> mary had neither <unk> nor taste and though vanity had given her application it had given her likewise a <unk> air and conceited manner which would have <unk> a <unk> degree of <unk> than she had reached </s>	790240.5832243558
+<s> <s> for what do we live but to make sport for our neighbours and laugh at them in our turn </s>	1008692.161593175
+<s> <s> well he certainly is very agreeable and i give you leave to like him </s>	6509316.626651948
+<s> <s> darcy though she had not before known its extent agreed equally well with his own words </s>	7619642.151276513
+<s> <s> collins well </s>	1603359.3398488318
+<s> <s> and can you likewise declare that there is no for it </s>	2144176.3612631974
+<s> <s> bennet all amazement though flattered by having a <unk> of such high importance received her with the utmost politeness </s>	3318993.294069851
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> elizabeth was chiefly struck with his extraordinary deference for lady catherine and his kind intention of <unk> marrying and <unk> his <unk> whenever it were required </s>	567702.5938926687
+<s> <s> the pain of separation however might be <unk> on his side by <unk> for the reception of his <unk> as he had reason to hope that shortly after his next return into hertfordshire the day would be fixed that was to make him the happiest of men </s>	34537220.137661554
+<s> <s> gardiner then <unk> her niece on wickham s <unk> and <unk> her on <unk> it so well </s>	427782.28000356426
+<s> <s> i have suspected it some time but i am now convinced </s>	16828311.349125348
+<s> <s> elizabeth could not but be pleased could not but triumph </s>	56385955.184693076
+<s> <s> you have a <unk> room here mr </s>	7929451.694498932
+<s> <s> denny had brought him from london and that he was to have a <unk> s commission in the shire </s>	433034307.8918913
+<s> <s> bennet to whose <unk> they all repaired after a few minutes conversation together received them exactly as might be expected with tears and <unk> of regret <unk> against the <unk> conduct of wickham and complaints of her own <unk> and ill <unk> <unk> every body but the person to whose ill <unk> indulgence the <unk> of her daughter must be principally <unk> </s>	1571819.6464929604
+<s> <s> yet now i must believe you cried jane </s>	2524593.6625343086
+<s> <s> but why should you wish to persuade me that i feel more than i acknowledge </s>	34842274.81796917
+<s> <s> forster and the probability of her being yet more imprudent with such a companion at brighton where the <unk> must be greater than at home </s>	3552566.3883220516
+<s> <s> elizabeth however astonished was at least more prepared for an <unk> than before and resolved to appear and to speak with calmness if he really intended to meet them </s>	1405113.9987683997
+<s> <s> in <unk> your sister i am sure you have pleasure said bingley and i hope it will soon be increased by seeing her quite well </s>	37253765.48758513
+<s> <s> i thought too ill of him to invite him to pemberley or admit his society in town </s>	12633403.164788922
+<s> <s> oh </s>	2500388979.216371
+<s> <s> yes she called yesterday with her father </s>	3240081.127377745
+<s> <s> elizabeth was surprised however that wickham should consent to such a scheme and had she <unk> only her own inclination any meeting with him would have been the last object of her wishes </s>	7313715.802572869
+<s> <s> he danced only four dances though gentlemen were <unk> and to my certain knowledge more than one young lady was sitting down in want of a partner </s>	22938193.57337717
+<s> <s> miss darcy s praise occupied the chief of it </s>	20892416.394479617
+<s> <s> it may be easily believed that however little of novelty could be added to their fears hopes and conjectures on this interesting subject by its repeated discussion no other could <unk> them from it long during the whole of the journey </s>	2298927.8320870777
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> i want to talk very seriously </s>	30989437.10637771
+<s> <s> i can much more easily believe mr </s>	907652.7950912387
+<s> <s> happiness in marriage is entirely a matter of chance </s>	448126.60496230045
+<s> <s> after this day jane said no more of her indifference </s>	89909216.26067485
+<s> <s> this he considered <unk> encouragement and the <unk> of all that he felt and had long felt for her immediately followed </s>	2420375.4051537826
+<s> <s> no <unk> had <unk> long ago and she had almost as long been ashamed of ever feeling a dislike against him that could be so called </s>	1241815.873749728
+<s> <s> mr </s>	736070643.2743852
+<s> <s> sometimes she could fancy that he talked less than on former occasions and once or twice pleased herself with the notion that as he looked at her he was trying to <unk> a resemblance </s>	1451449.859663876
+<s> <s> i am trying to make it out </s>	36133945.23515254
+<s> <s> of having another daughter married to mr </s>	148449979.82083803
+<s> <s> he <unk> it himself without disguise </s>	291770.2602550262
+<s> <s> remember that she is one of a large family that as to fortune it is a most eligible match and be ready to believe for every body s sake that she may feel something like regard and esteem for our cousin </s>	3806816.748084038
+<s> <s> there was no help for it however </s>	5405260.408682373
+<s> <s> i am sorry you think so but if that be the case there can at least be no want of subject we may <unk> our different opinions </s>	3118131.2949537938
+<s> <s> he resigned all claim to assistance in the church were it possible that he could ever be in a situation to receive it and accepted in return three thousand pounds </s>	9049009.07450756
+<s> <s> this <unk> she had now <unk> and at the age of without having ever been handsome she felt all the good luck of it </s>	1629322.69130791
+<s> <s> it was gratifying to have <unk> <unk> so strong an affection </s>	43288002.6338592
+<s> <s> bennet s return as jane and elizabeth were walking together in the shrubbery behind the house they saw the housekeeper coming towards them and <unk> that she came to call them to their mother went forward to meet her but instead of the expected <unk> when they approached her she said to miss bennet i beg your pardon madam for <unk> you but i was in hopes you might have got some good news from town so i took the liberty of coming to ask </s>	8170519.5349926585
+<s> <s> whatever i do is done in a hurry replied he and therefore if i should <unk> to quit netherfield i should probably be off in five minutes </s>	1006609.0246940298
+<s> <s> darcy </s>	1238821253.4508119
+<s> <s> the copyright laws of the place where you are <unk> also <unk> what you can do with this work </s>	68621372.07569788
+<s> <s> we live in so different a part of town all our connections are so different and as you well know we go out so little that it is very improbable they should meet at all unless he really comes to see her </s>	1002843.142476833
+<s> <s> at length she spoke again </s>	3466467.294201193
+<s> <s> give my love to colonel forster i hope you will drink to our good journey </s>	3322302.5241010366
+<s> <s> whatever he said was said well and whatever he did done <unk> </s>	1205104.3453363762
+<s> <s> wickham so very bad </s>	621833.1432239532
+<s> <s> elizabeth went away with her head full of him </s>	665125.2797503037
+<s> <s> jane was distressed </s>	2374849213.878108
+<s> <s> poor jane </s>	1898725249.8087587
+<s> <s> under such circumstances however he was not likely to be proof against the temptation of immediate relief </s>	6142660.464980816
+<s> <s> i knew you would be wishing me joy </s>	5553922.005218645
+<s> <s> hurst looked at her with astonishment </s>	6518191904.48141
+<s> <s> it is a pity that great ladies in general are not more like her </s>	26722427.873620134
+<s> <s> kitty is slight and delicate and mary <unk> so much that her hours of <unk> should not be broken in on </s>	590131.9221468723
+<s> <s> it is in short impossible for us to conjecture the <unk> or circumstances which may have <unk> them without actual blame on either side </s>	1187428.020598233
+<s> <s> cried elizabeth but how could be how could his will be <unk> why did not you seek <unk> <unk> </s>	1571561.1719014628
+<s> <s> and there are several of the young men too that she likes very much </s>	415869033.6002002
+<s> <s> elizabeth still more affected was earnest and <unk> in her reply and at length by repeated assurances that mr </s>	2104560.7941249916
+<s> <s> he assured her that as to dancing he was perfectly indifferent to it that his chief object was by delicate attentions to recommend himself to her and that he should therefore make a point of remaining close to her the whole evening </s>	3070937.460057334
+<s> <s> with great energy but it is a subject which always makes a lady <unk> </s>	831100.8003658381
+<s> <s> mr </s>	736070643.2743852
+<s> <s> wickham is by no means a respectable young man </s>	108492031.2707406
+<s> <s> a clergyman like you must marry chuse properly chuse a <unk> for sake and for your let her be an active useful sort of person not brought up high but able to make a small income go a good way </s>	271354.6554353719
+<s> <s> how strange this is </s>	16294788.68361615
+<s> <s> collins s present circumstances made it a most eligible match for their daughter to whom they could give little fortune and his <unk> of future <unk> were exceedingly fair </s>	1130640.1433151453
+<s> <s> after an affectionate parting between the friends elizabeth was attended to the carriage by mr </s>	353258.85743107676
+<s> <s> he listened to her with perfect indifference while she chose to entertain herself in this manner and as his composure convinced her that all was safe her wit <unk> long </s>	2719156.034144519
+<s> <s> she knew how little such a situation would give pleasure to either or make either appear to advantage </s>	509713.30265448656
+<s> <s> i can easily believe it </s>	1960505.7196592642
+<s> <s> i am truly glad dearest lizzy that you have been spared something of these distressing <unk> but now as the first <unk> is over shall i own that i long for your return </s>	4162121.5666040312
+<s> <s> five thousand pounds was settled by marriage <unk> on mrs </s>	8471629.470347518
+<s> <s> it was a long time before she became at all <unk> to the idea of so <unk> a match </s>	3976075.8797050887
+<s> <s> who would have thought it </s>	1201151978.549791
+<s> <s> her mother s thoughts she plainly saw were <unk> the same way and she determined not to venture near her lest she might hear too much </s>	2377560.5552878566
+<s> <s> i have nothing to say against he is a most interesting young man and if he had the fortune he ought to have i should think you could not do better </s>	30156156.60555392
+<s> <s> conceal the unhappy truth as long as it is possible i know it cannot be long </s>	30123306.235810373
+<s> <s> </s>	5246943647.220474
+<s> <s> <unk> s asking him how he liked our meryton <unk> and whether he did not think there were a great many pretty women in the room and he thought the <unk> </s>	6368130.808750043
+<s> <s> for though your <unk> were formed on mistaken <unk> my behaviour to you at the time had <unk> the <unk> <unk> </s>	3785499.4404235673
+<s> <s> he even looked at her with a smile of affected <unk> </s>	69997404.59011085
+<s> <s> indeed you are mistaken madam </s>	876869496.6476063
+<s> <s> and mrs </s>	2445689840.817142
+<s> <s> mary and kitty have been very kind and would have <unk> in every <unk> i am sure but i did not think it right for either of them </s>	53153459.30167436
+<s> <s> collins she added that lizzy shall be brought to reason </s>	25777333.30989426
+<s> <s> in a <unk> voice mrs </s>	3014306.9282550407
+<s> <s> where is your <unk> my dear </s>	116619442.96279481
+<s> <s> i always thought they were very <unk> to have the charge of her but i was as i always am </s>	2243173.6939099208
+<s> <s> oh </s>	2500388979.216371
+<s> <s> can there be any other opinion on the subject </s>	17679442.04999239
+<s> <s> yes all of them i think </s>	39046286.43822231
+<s> <s> as soon as they entered the copse lady catherine began in the following manner you can be at no loss miss bennet to understand the reason of my journey <unk> </s>	14987892.895084206
+<s> <s> has he has my nephew made you an offer of marriage </s>	1596415395.4814458
+<s> <s> in a few minutes she was joined by bingley whose <unk> with her father had been short and to the purpose </s>	6007566.867579053
+<s> <s> the church to have been my profession i was brought up for the church and i should at this time have been in possession of a most valuable living had it pleased the gentleman we were speaking of just now </s>	10739094.04376325
+<s> <s> it became her turn to listen </s>	290235.5702290537
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> elizabeth immediately began playing again </s>	8397857.053851584
+<s> <s> they agree with me in <unk> that this false step in one daughter will be <unk> to the <unk> of all the others for who as lady catherine herself <unk> says will <unk> themselves with such a family </s>	1970935.7108376836
+<s> <s> pride <unk> more to our opinion of ourselves vanity to what we would have others think of us </s>	2103653.2374780583
+<s> <s> she added by far too much </s>	3942754.114391036
+<s> <s> collins to join his daughters in their walk and mr </s>	86267116.79178937
+<s> <s> <unk> a <unk> woman whose endeavour to introduce some kind of discourse proved her to be more truly well <unk> than either of the others and between her and mrs </s>	3415335.700601225
+<s> <s> nothing child nothing </s>	1538827.4791836669
+<s> <s> bennet with great politeness and <unk> said how happy they should be to see him at longbourn again whenever his other enga gements might allow him to visit them </s>	8321961.090868145
+<s> <s> with a book he was <unk> of time and on the present occasion he had a good deal of curiosity as to the event of an evening which had raised such <unk> expectations </s>	19901916.416189056
+<s> <s> make haste make haste </s>	151596886.97676012
+<s> <s> the first time of my ever seeing him in hertfordshire you must know was at a ball and at this ball what do you think he did </s>	10784503.83307972
+<s> <s> what a <unk> between him and his friend </s>	113880317.72082946
+<s> <s> wickham and give him an invitation also if the family from longbourn would come in the evening </s>	6241933.853109415
+<s> <s> darcy s but you shall do as you chuse </s>	3876022.0870109685
+<s> <s> if an individual work is in the public domain in the united states and you are <unk> in the united states we do not claim a right to prevent you from copying distributing <unk> displaying or creating <unk> works <unk> on the work as long as all <unk> to project gutenberg are removed </s>	20677037.060236305
+<s> <s> the acknowledged <unk> talked and laughed the <unk> were silent </s>	1015482.1104710458
+<s> <s> it will then be <unk> seen that on both <unk> we meet only as common and indifferent acquaintance </s>	1802786.803790724
+<s> <s> his being so sure of <unk> was wrong said she and certainly ought not to have appeared but consider how much it must increase his disappointment </s>	1424927.7988062943
+<s> <s> i am far from <unk> any part of mr </s>	350331101.22739214
+<s> <s> the eldest of them a sensible intelligent young woman about was elizabeth s intimate friend </s>	147912.3417271091
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> then pray speak aloud </s>	861602.5855447333
+<s> <s> your s c </s>	12916382912.026312
+<s> <s> we are not rich enough or <unk> enough for them and she is the more anxious to get miss darcy for her brother from the notion that when there has been <unk> she may have less trouble in <unk> a second in which there is certainly some <unk> and i dare say it would <unk> if miss de bourgh were out of the way </s>	6179009.779197923
+<s> <s> bingley her sister s being in town </s>	2057603137.6742873
+<s> <s> such relief however as it was in her power to afford by the practice of what might be called economy in her own private <unk> she frequently sent them </s>	2031887.9751201288
+<s> <s> compared with some families i believe we were but such of us as wished to learn never wanted the means </s>	216650.11906085606
+<s> <s> how shall i bear so much happiness </s>	3135522.563391041
+<s> <s> a <unk> </s>	2862616.7143635866
+<s> <s> she shall hear my opinion </s>	329973.2426323127
+<s> <s> elizabeth could not help saying it is very much to his credit i am sure that you should think so </s>	203144859.56146222
+<s> <s> their arrival was dreaded by the elder miss bennets and jane more especially who gave lydia the feelings which would have attended herself had been the <unk> was wretched in the thought of what her sister must <unk> </s>	4027960.2653057133
+<s> <s> i will write to my sister gardiner about them directly </s>	2609327.8159971368
+<s> <s> and as for wedding clothes do not let them wait for that but tell lydia she shall have as much money as she chuses to <unk> them after they are married </s>	3012537.0585248503
+<s> <s> collins was at leisure to look <unk> him and admire and he was so much struck with the size and furniture of the <unk> that he declared he might almost have supposed himself in the small summer breakfast parlour at rosings a comparison that did not at first <unk> much <unk> but when mrs </s>	1752738.9648041318
+<s> <s> lady catherine said she you have given me a <unk> are any of your younger sisters out miss bennet </s>	6839811.361300234
+<s> <s> to walk three miles or four miles or five miles or whatever it is above her <unk> in <unk> and alone quite alone </s>	654103.3479067187
+<s> <s> mr </s>	736070643.2743852
+<s> <s> i do not like to boast of my own child but to be sure jane one does not often see any body better looking </s>	14752749.717354016
+<s> <s> i am afraid mr </s>	23601023.326651584
+<s> <s> from what he said of miss darcy i was <unk> prepared to see a proud reserved disagreeable girl </s>	8526988.518403906
+<s> <s> i expected at least that the <unk> were got into the garden and here is nothing but lady catherine and her daughter </s>	17687516.806709472
+<s> <s> <unk> too much </s>	9098420.813397586
+<s> <s> may i ask to what these questions <unk> </s>	23252668.825831667
+<s> <s> she will be taken good care of </s>	2232449.3476425093
+<s> <s> bennet i am quite delighted with him </s>	67488182976.64041
+<s> <s> she dared not relate the other half of mr </s>	6745513.225809442
+<s> <s> the day of his and lydia s departure soon came and mrs </s>	62200702.506435595
+<s> <s> and to be kept back on a motive i think it would not be very likely to promote <unk> affection or delicacy of mind </s>	16625429.726189533
+<s> <s> one must speak a little you know </s>	837009.4029074672
+<s> <s> she was of great use and comfort to us all and lady lucas has been very kind she walked here on wednesday morning to <unk> with us and offered her <unk> or any of her daughters if they could be of use to us </s>	5475258.616824795
+<s> <s> are you quite sure ma am is not there a little mistake </s>	31939614.25752457
+<s> <s> elizabeth was too much embarrassed to say a word </s>	105752105.1786309
+<s> <s> for such an attachment as this she might have <unk> <unk> and though she did not suppose lydia to be <unk> enga <unk> in an elopement without the intention of marriage she had no difficulty in believing that neither her virtue nor her understanding would preserve her from <unk> an easy <unk> </s>	2331190.5610560635
+<s> <s> i do not pretend to regret any thing i shall leave in hertfordshire except your society my dearest friend but we will hope at some future period to enjoy many <unk> of the delightful intercourse we have known and in the mean while may lessen the pain of separation by a very frequent and most <unk> correspondence </s>	1485198.832493423
+<s> <s> elizabeth having rather expected to <unk> him was amazed at his gallantry but there was a mixture of sweetness and <unk> in her manner which made it difficult for her to <unk> anybody and darcy had never been so <unk> by any woman as he was by her </s>	1731350.3075477413
+<s> <s> but the fact is that being as i am to <unk> this estate after the death of your honoured father who however may live many years longer i could not satisfy myself without resolving to chuse a wife from among his daughters that the loss to them might be as little as possible when the melancholy event takes place which however as i have already said may not be for several years </s>	3273827.7816099757
+<s> <s> collins took his <unk> between his cousin elizabeth and mrs </s>	2838883.9383937404
+<s> <s> hurst and miss bingley </s>	2828589326.893801
+<s> <s> they followed her into the </s>	139265226.3270253
+<s> <s> we shall often meet i hope in hertfordshire </s>	81152625.95884158
+<s> <s> you mentioned <unk> </s>	739588.7205078634
+<s> <s> the two girls had been <unk> to each other during the whole visit and the result of it was that the youngest should tax mr </s>	26857738.779183242
+<s> <s> it had given him a disgust to his business and to his residence in a small <unk> town and quitting them both he had removed with his family to a house about a mile from meryton <unk> from that period lucas lodge where he could think with pleasure of his own importance and <unk> by business <unk> himself <unk> in being civil to all the world </s>	1691262.2049009274
+<s> <s> and since this sad affair has taken place it is said that he left meryton greatly in debt but i hope this may be false </s>	1384562.1133667075
+<s> <s> and if not able to please himself in the arrangement he has at least great pleasure in the power of choice </s>	21406291.217565313
+<s> <s> oh </s>	2500388979.216371
+<s> <s> the wedding took place the <unk> and <unk> set off for kent from the church door and every body had as much to say or to hear on the subject as usual </s>	7608066.214866978
+<s> <s> darcy took up a book miss bingley did the same and mrs </s>	4585648.070705906
+<s> <s> when lady catherine and her daughter had <unk> as long as they chose the tables were broke up the carriage was offered to mrs </s>	5236375.200532318
+<s> <s> darcy may perhaps have of such a place as <unk> street but he would hardly think a month s <unk> enough to <unk> him from its <unk> were he once to enter it and depend upon it mr </s>	1991504.5866544826
+<s> <s> elizabeth <unk> attended her </s>	496479.566964377
+<s> <s> hurst s gown here she was interrupted again </s>	296124.4024622206
+<s> <s> mary s powers were by no means fitted for such a display her voice was weak and her manner affected elizabeth was in <unk> </s>	1272040.0352905928
+<s> <s> you may charge a reasonable fee for copies of or providing access to or distributing project electronic works provided that you pay a <unk> fee of of the <unk> <unk> you <unk> from the use of project works calculated <unk> the method you already use to <unk> your <unk> <unk> </s>	1235501.2151815784
+<s> <s> bennet s civilities </s>	11356211.196503375
+<s> <s> recovering himself however shortly he turned to his partner and said sir william s interruption has made me forget what we were talking of </s>	5140458.142480506
+<s> <s> but they did pass away and mr </s>	7114247.091334351
+<s> <s> elizabeth merely <unk> to him without saying a word </s>	147051800.1094601
+<s> <s> his behaviour to myself has been <unk> but i <unk> believe i could forgive him any thing and every thing rather than his <unk> the hopes and <unk> the memory of his father </s>	2041343.1660169307
+<s> <s> oh jane had we been less secret had we told what we knew of him this could not have happened </s>	3545449.094659765
+<s> <s> the first part of mrs </s>	149725160.43324092
+<s> <s> i hate to see you standing about by yourself in this stupid manner </s>	1669029.6188158575
+<s> <s> philips s </s>	774396450.8751849
+<s> <s> bennet you will wait on him of course </s>	65689716.862534866
+<s> <s> where does discretion end and <unk> begin </s>	198328.26715775605
+<s> <s> your attendance upon her has been too much for you </s>	1194388.5578795103
+<s> <s> the two ladies were delighted to see their dear friend again called it an age since they had met and repeatedly asked what she had been doing with herself since their separation </s>	2490824.471379346
+<s> <s> yes and i had heard it before </s>	425480704.5842833
+<s> <s> i shall not say that you are mistaken he replied because you could not really believe me to entertain any design of alarming you and i have had the pleasure of your acquaintance long enough to know that you find great enjoyment in occasionally <unk> opinions which in fact are not your own </s>	12685793.387743196
+<s> <s> miss darcy on her brother s entrance <unk> herself much more to talk and elizabeth saw that he was anxious for his sister and herself to get acquainted and <unk> as much as possible every attempt at conversation on either side </s>	15377036.940690493
+<s> <s> it was painful exceedingly painful to know that they were under <unk> to a person who could never receive a return </s>	3187517.3688666
+<s> <s> if he did <unk> his <unk> it was not till sir william was out of sight </s>	72726772.23183264
+<s> <s> at length however our kind friend procured the direction </s>	3705936.836560755
+<s> <s> yes she will remain there till christmas </s>	33550431.739419423
+<s> <s> perhaps there was some truth in though i doubt whether reserve or reserve can be <unk> for the event </s>	399751.1653957522
+<s> <s> bennet sent to mr </s>	3848517.4796589864
+<s> <s> no i am sure we never read the same or not with the same feelings </s>	15976933.272974798
+<s> <s> bennet my mind however is now made up on the subject for having received <unk> at <unk> i have been so fortunate as to be distinguished by the patronage of the right honourable lady catherine de bourgh <unk> of sir <unk> de bourgh whose <unk> and <unk> has <unk> me to the valuable <unk> of this parish where it shall be my earnest endeavour to <unk> myself with grateful respect towards her ladyship and be ever ready to perform those <unk> and <unk> which are <unk> by the church of engl and </s>	563535.7795845153
+<s> <s> it would be such a <unk> scheme and i dare say would hardly cost any thing at all </s>	50672969.400760375
+<s> <s> bennet could not give her consent or speak her approbation in terms warm enough to satisfy her feelings though she talked to bingley of nothing else for half an hour and when mr </s>	28788663.527331684
+<s> <s> collins was only a clergyman and it affected them in no other way than as a piece of news to spread at meryton </s>	3815464.228146493
+<s> <s> take your choice but you must be satisfied with only one </s>	51245521.93331566
+<s> <s> darcy <unk> it with a bow and was beginning to determine not to fix his eyes on elizabeth when they were suddenly <unk> by the sight of the stranger and elizabeth <unk> to see the countenance of both as they looked at each other was all astonishment at the effect of the meeting </s>	1404990.5883629275
+<s> <s> collins however was not <unk> from speaking again and mr </s>	528533.1633326189
+<s> <s> though her brother and sister were persuaded that there was no real occasion for such a <unk> from the family they did not attempt to <unk> it for they knew that she had not <unk> enough to hold her <unk> before the servants while they waited at table and <unk> it better that only of the <unk> and the one whom they could most trust should comprehend all her fears and solicitude on the subject </s>	2483713.8147810334
+<s> <s> and mrs </s>	2445689840.817142
+<s> <s> i do not blame jane she continued for jane would have got mr </s>	30366912.093789145
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> i know no harm of her </s>	158091417.91198185
+<s> <s> they saw him often and to his other <unk> was now added that of general <unk> </s>	1382592.8582246904
+<s> <s> my beauty you had early <unk> and as for my manners my behaviour to was at least always <unk> on the uncivil and i never spoke to you without rather wishing to give you pain than not </s>	4402271.361686366
+<s> <s> reynolds s respect for elizabeth seemed to increase on this <unk> of her knowing her master </s>	174830.74844913284
+<s> <s> in <unk> the happiness of bingley which of course was to be inferior only to his own he continued the conversation till they reached the house </s>	28064656.937237322
+<s> <s> and a <unk> <unk> </s>	503524.49639242445
+<s> <s> if you do not agree to <unk> by all the terms of this agreement you must <unk> <unk> and return or <unk> all copies of project electronic works in your possession </s>	220336634.33920348
+<s> <s> it was really a very handsome thought </s>	948548997.6517624
+<s> <s> ah </s>	346969312044.0505
+<s> <s> it <unk> me i confess for certainly there can be nothing so <unk> to them as <unk> </s>	2127315.313129244
+<s> <s> it was spoken of again while they were at dinner when mr </s>	6819867.890139179
+<s> <s> if you my dear father will not take the trouble of <unk> her <unk> spirits and of <unk> her that her present <unk> are not to be the business of her life she will soon be beyond the reach of <unk> </s>	62769572.80510847
+<s> <s> mr </s>	736070643.2743852
+<s> <s> collins had been taken in <unk> she trusted that they would never be happy together and <unk> that the match might be broken off </s>	7297575.619861816
+<s> <s> he cannot afford it </s>	19555773.32748321
+<s> <s> darcy s eyes were fixed on her </s>	8072059292.533445
+<s> <s> bennet to her daughter s room in her dressing gown and with her <unk> half finished <unk> out my dear jane make haste and hurry down </s>	6055343.872807791
+<s> <s> but she does help him on as much as her nature will allow </s>	3090017.335506768
+<s> <s> it is no such thing </s>	922015241.790116
+<s> <s> cried lydia </s>	842859197508.1771
+<s> <s> it is impossible that he should still love me </s>	330532116.4519546
+<s> <s> she remembered that he had yet to learn to be <unk> at and it was rather too early to begin </s>	11623546.29217217
+<s> <s> but with it is not so </s>	2524629923.554667
+<s> <s> darcy stood near them in silent indignation at such a mode of passing the evening to the <unk> of all conversation and was too much engr ossed by his own thoughts to perceive that sir william lucas was his neighbour till sir william thus began </s>	975985.1607939915
+<s> <s> he has been here this half hour and master has had a letter </s>	135725220.85844237
+<s> <s> to the rest of the family they paid little attention <unk> mrs </s>	31332693.861556686
+<s> <s> she read with an eage rness which hardly left her power of <unk> and from impatience of knowing what the next sentence might bring was incapable of attending to the sense of the one before her eyes </s>	2275901.5049325502
+<s> <s> your conjecture is totally wrong i assure you </s>	5549857.4421900585
+<s> <s> pride observed mary who <unk> herself upon the <unk> of her reflections is a very common <unk> i believe </s>	800456.5965884372
+<s> <s> her disappointment in charlotte made her turn with <unk> regard to her sister of whose <unk> and delicacy she was sure her opinion could never be <unk> and for whose happiness she grew <unk> more anxious as bingley had now been gone a week and nothing was heard of his return </s>	1483594.1027934935
+<s> <s> mr </s>	736070643.2743852
+<s> <s> when the ladies were <unk> for the <unk> he said to elizabeth do not make yourself uneasy my dear cousin about your <unk> </s>	32702208.567981713
+<s> <s> but does lydia know nothing of this </s>	127138966.91630666
+<s> <s> but i shall not <unk> to assert that the <unk> of your sister s countenance and air was such as might have given the most <unk> <unk> a conviction that however amiable her temper her heart was not likely to be easily touched that i was desirous of believing her indifferent is certain but i will venture to say that my <unk> and <unk> are not usually <unk> by my hopes or fears i did not believe her to be indifferent because i wished it i believed it on <unk> conviction as truly as i wished it in reason my objections to the marriage were not merely those which i last night acknowledged to have required the utmost force of <unk> to put <unk> in my own case the want of connection could not be so great an evil to my friend as to me but there were other <unk> of <unk> <unk> which though still <unk> and <unk> to an equal degree in both <unk> i had myself endeavoured to forget because they were not immediately before me these <unk> must be <unk> though briefly the situation of your mother s family though <unk> was nothing in comparison of that <unk> want of propriety so frequently so almost <unk> betrayed by herself by your three younger sisters and occasionally even by your father pardon me it <unk> me to <unk> you </s>	1066695.467013828
+<s> <s> well lizzy continued her mother soon afterwards and so the collinses live very comfortable do they </s>	1512858.8863695634
+<s> <s> by reading or <unk> any part of this project electronic work you <unk> that you have read understand agree to and accept all the terms of this license and <unk> property trademark copyright agreement </s>	2390402.3813316803
+<s> <s> but every body is to judge for themselves and the lucases are very good sort of girls i assure you </s>	452398012.48283786
+<s> <s> she put down the letter <unk> every circumstance with what she meant to be <unk> <unk> on the probability of each <unk> but with little success </s>	1475541.3493236804
+<s> <s> i was in the <unk> before i knew that i <unk> </s>	21543347.32476674
+<s> <s> collins seeing that she was really <unk> did not <unk> her to go and as much as possible prevented her husband from <unk> her but mr </s>	1227319.8281213387
+<s> <s> sir william did not say much </s>	7036919344.140286
+<s> <s> elizabeth reserved to herself the application for her mother s </s>	16518851.620795727
+<s> <s> in <unk> lady catherine s expressions however she could not help feeling some uneasiness as to the possible consequence of her <unk> in this interference </s>	12636978.595943492
+<s> <s> what has she frightened away some of your <unk> </s>	9936987.436164076
+<s> <s> in vain did elizabeth endeavour to check the <unk> of her mother s words or persuade her to describe her felicity in a less <unk> whisper for to her <unk> vexation she could perceive that the chief of it was <unk> by mr </s>	12178400.984156312
+<s> <s> it would have spared her she thought one <unk> night out of two </s>	834024.4286747329
+<s> <s> collins could be forgotten there was really a great air of comfort <unk> and by charlotte s evident enjoyment of it elizabeth supposed he must be often forgotten </s>	649143.5412227515
+<s> <s> elizabeth <unk> and running into her own room for her <unk> attended her noble <unk> down stairs </s>	355868.7249693776
+<s> <s> mr </s>	736070643.2743852
+<s> <s> in vain did elizabeth attempt to make her reasonable and jane to make her resigned </s>	6938037.403564588
+<s> <s> my father was not only fond of this young man s society whose manners were always enga <unk> he had also the highest opinion of him and <unk> the church would be his profession intended to provide for him in it </s>	5574308.73586567
+<s> <s> while she spoke wickham looked as if scarcely knowing whether to rejoice over her words or to <unk> their meaning </s>	1981045.719565329
+<s> <s> poor kitty has anger for having concealed their attachment but as it was a matter of confidence one cannot wonder </s>	5784350.180227888
+<s> <s> yes but <unk> characters are the amusing </s>	3251559.037353552
+<s> <s> as for jane anxiety under this <unk> was of course more painful than elizabeth s but whatever she felt she was desirous of <unk> and between herself and elizabeth therefore the subject was never alluded to </s>	1033452.8446174826
+<s> <s> wickham and herself </s>	791874618.3367378
+<s> <s> and with a bow to mr </s>	18342086.01016049
+<s> <s> well much good may it do them </s>	340866.2198661441
+<s> <s> i am extremely glad that you have such pleasant <unk> from our friends at hunsford </s>	1662828.436554193
+<s> <s> wickham s being among them </s>	3073631.3487489703
+<s> <s> on the contrary every particular <unk> to his sister was meant to be kept as much as possible to myself and if i endeavour to <unk> people as to the rest of his conduct who will believe me </s>	26637985.113374766
+<s> <s> collins was a very <unk> pretty kind of girl </s>	69778154.86603571
+<s> <s> bennet raised his eyes from his book as she entered and fixed them on her face with a calm <unk> which was not in the least altered by her communication </s>	3649988.8517161706
+<s> <s> project ebooks are often created from several printed editions all of which are confirmed as public domain in the <unk> s </s>	971428.0882556324
+<s> <s> bennet still up </s>	695864.2761536073
+<s> <s> hurst merely looked the gentleman but his friend mr </s>	6807596.059591642
+<s> <s> mr </s>	736070643.2743852
+<s> <s> her understanding excellent her mind improved and her manners <unk> </s>	1168368.7498649587
+<s> <s> collins was a most <unk> picture and to the <unk> of a friend <unk> herself and <unk> in her esteem was added the distressing conviction that it was impossible for that friend to be tolerably happy in the <unk> she had chosen </s>	2755610.969274021
+<s> <s> darcy if you suppose that the mode of your declaration affected me in any other way than as it spared me the concern which i might have felt in refusing you had you behaved in a more manner </s>	4364916.568033027
+<s> <s> my dear lizzy you cannot think me so weak as to be in danger now </s>	8612929.048590414
+<s> <s> the only pain was in leaving her father who would certainly miss her and who when it came to the point so little liked her going that he told her to write to him and almost promised to answer her letter </s>	3014255.698123122
+<s> <s> however he wrote some <unk> on her and very pretty they were </s>	2574890.8718196605
+<s> <s> mr </s>	736070643.2743852
+<s> <s> mr </s>	736070643.2743852
+<s> <s> i believe ma am i may <unk> promise you to dance with him </s>	19356822.066766474
+<s> <s> the promised letter of thanks from mr </s>	10607326.252961386
+<s> <s> collins s offer was now nearly at an end and elizabeth had only to suffer from the uncomfortable feelings necessarily attending it and occasionally from some <unk> allusion of her mother </s>	10157951.733298264
+<s> <s> kitty and lydia were far from <unk> miss lucas for mr </s>	102757590.86558807
+<s> <s> i remember the time when i liked a <unk> coat myself very well and indeed so i do still at my heart and if a <unk> young colonel with five or six thousand a year should want one of my girls i shall not say nay to him and i thought colonel forster looked very <unk> the other night at sir william s in his <unk> </s>	1776056.4012485447
+<s> <s> my situation in life my connections with the family of de bourgh and my relationship to your own are circumstances highly in my favour and you should take it into farther consideration that in spite of your <unk> attractions it is by no means certain that another offer of marriage may ever be made you </s>	3213414.2275801143
+<s> <s> bingley will like it lizzy </s>	5026016.360160664
+<s> <s> those that best pleased her as <unk> his conduct in the <unk> light seemed most improbable </s>	565638.2405449343
+<s> <s> the conversation soon turned upon fishing and she heard mr </s>	1013068.0370956258
+<s> <s> if you paid a fee for <unk> a copy of or access to a project electronic work and you do not agree to be <unk> by the terms of this agreement you may obtain a refund from the person or <unk> to whom you paid the fee as set forth in paragraph </s>	24275258.846225977
+<s> <s> mr </s>	736070643.2743852
+<s> <s> i am perfectly satisfied from what his manners now are that he never had any design of enga <unk> my affection </s>	10247769.820403777
+<s> <s> there is but such a <unk> of merit between them just enough to make one good sort of man and of late it has been <unk> about pretty much </s>	1982241.5798936426
+<s> <s> must it be so </s>	151079964.9987676
+<s> <s> her colour changed and she said no more </s>	185031999.63436967
+<s> <s> on entering the she found the whole party at <unk> and was immediately invited to join them but <unk> them to be playing high she declined it and making her sister the excuse said she would amuse herself for the short time she could stay below with a book </s>	1690752.471110297
+<s> <s> bennet who was most anxious to get rid of him and have his library to himself for thither mr </s>	78621944.51669076
+<s> <s> by this time my dearest sister you have received my hurried letter i wish this may be more <unk> but though not confined for time my head is so <unk> that i cannot answer for being <unk> </s>	2102010.0413239896
+<s> <s> which will not be yours till after your mother s <unk> is all that you may ever be entitled to </s>	904137.8100491058
+<s> <s> what do you mean </s>	12993152436.548622
+<s> <s> i hope not so </s>	150622013.06697106
+<s> <s> bennet with more <unk> than politeness protested he must be entirely mistaken and lydia always unguarded and often uncivil <unk> exclaimed good lord </s>	580859.5488312895
+<s> <s> will never be distressed for money </s>	6562512.563927114
+<s> <s> his family knew him to be on all common occasions a most <unk> and <unk> <unk> but at such a time they had hoped for exertion </s>	1050470.2583779518
+<s> <s> he was anxious to avoid the notice of his cousins from a conviction that if they saw him depart they could not fail to conjecture his design and he was not willing to have the attempt known till its success could be known likewise for though feeling almost secure and with reason for charlotte had been tolerably encouraging he was <unk> <unk> since the <unk> of wednesday </s>	712380.3735367573
+<s> <s> but mrs </s>	27791372378.31885
+<s> <s> darcy that she would not trust herself with an answer and therefore <unk> <unk> the conversation talked on indifferent matters till they reached the parsonage </s>	12559196.91799988
+<s> <s> said he as he joined her </s>	19174074.2148133
+<s> <s> that is all very proper and civil i am sure said mrs </s>	49752237.11219546
+<s> <s> and if you will stay another complete it will be in my power to take one of you as far as london for i am going there early in <unk> for a week and as <unk> does not object to the <unk> <unk> there will be very good room for one of you and indeed if the weather should happen to be <unk> i should not object to taking you both as you are neither of you large </s>	19763799.084086377
+<s> <s> he was too happy however to need much attention and <unk> for the others the business of relieved them from a great deal of his company </s>	6670510.457177113
+<s> <s> his <unk> would have been complete indeed </s>	1197532.8896756077
+<s> <s> so much the better </s>	1121471284.5689785
+<s> <s> philips understood from him what rosings was and who was its <unk> when she had listened to the description of only one of lady catherine s and found that the alone had cost eigh t hundred pounds she felt all the force of the compliment and would hardly have <unk> a comparison with the housekeeper s room </s>	1153229.7299929105
+<s> <s> they insist also on my seeing mr </s>	2154535.9206957133
+<s> <s> gardiner thought of him and mrs </s>	327118099.0352993
+<s> <s> they were not the only objects of mr </s>	114820045.78082053
+<s> <s> pray read on </s>	88181127.2302947
+<s> <s> she was not of so <unk> a temper as lydia and removed from the influence of lydia s <unk> she became by proper attention and management less <unk> less ignorant and less <unk> </s>	1323380.7792215326
+<s> <s> if he could any how discover at what house the <unk> had before set down his <unk> he determined to make enquiries there and hoped it might not be impossible to find out the stand and number of the coach </s>	4526553.218260455
+<s> <s> <unk> </s>	81277.89410586988
+<s> <s> wickham and of seeing a <unk> of every thing in mr </s>	13684827.718962496
+<s> <s> bennet </s>	1732312222.827564
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> it makes me very nervous and <unk> to be <unk> so in my own family and to have neighbours who think of themselves before anybody else </s>	1762729.7513098894
+<s> <s> lydia s voice was heard in the vestibule the door was thrown open and she ran into the room </s>	68651316.02586773
+<s> <s> laugh as much as you chuse but you will not laugh me out of my opinion </s>	20812697.30841892
+<s> <s> when you have killed all your own <unk> mr </s>	457559.0414999005
+<s> <s> neglect </s>	81277.89410586988
+<s> <s> miss bennet was therefore established as a <unk> girl and their brother felt <unk> by such commendation to think of her as he chose </s>	930917.4434177967
+<s> <s> perhaps other people have said so before but not one with such justice </s>	200348.53815484472
+<s> <s> what will become of me </s>	86771273.9343635
+<s> <s> you do not know what i suffer </s>	1281574326.0865247
+<s> <s> collins in <unk> the civility of mr </s>	770303176.6016238
+<s> <s> lydia <unk> as he opened the <unk> and before he had with very <unk> solemnity read three <unk> she interrupted him with do you know <unk> that my uncle philips <unk> of turning away <unk> and if he does colonel forster will <unk> him </s>	3313303.304529735
+<s> <s> my object has been to secure an amiable companion for myself with due consideration for the advantage of all your family and if my has been at all <unk> i here beg leave to <unk> </s>	689263.9948505255
+<s> <s> he then <unk> her in maria followed and the door was on the point of being closed when he suddenly reminded them with some <unk> that they had <unk> forgotten to leave any <unk> for the ladies of rosings </s>	3205898.7380870245
+<s> <s> did you ever hear darcy mention the circumstance when you were in kent </s>	1222348.3228368936
+<s> <s> my poor mother is really ill and <unk> her room </s>	4980220.5499761505
+<s> <s> of what he has <unk> me i am ignorant but of the truth of what i shall relate i can <unk> more than one <unk> of <unk> <unk> </s>	12046697.4241318
+<s> <s> but think no more of the letter </s>	2164315270.421427
+<s> <s> aye that is because you have the right disposition </s>	45700754.17630446
+<s> <s> i know you will do him such <unk> justice that i am <unk> every moment more <unk> and indifferent </s>	5792445.947372856
+<s> <s> on <unk> the ladies of the group the two gentlemen came directly towards them and began the usual civilities </s>	1208302.8028639166
+<s> <s> its business office is <unk> at north <unk> <unk> <unk> <unk> <unk> <unk> </s>	141405.4278134397
+<s> <s> collins very gravely but i cannot imagine that her ladyship would at all <unk> of you </s>	8079230.664456407
+<s> <s> philips s supper party but his manners recommended him to every body </s>	145084690.4117892
+<s> <s> bennet sent them word that they could not possibly have the carriage before tuesday and in her <unk> it was added that if mr </s>	2150648.482775389
+<s> <s> miss bennet s pleasing manners grew on the good will of mrs </s>	3713038.42671141
+<s> <s> i have been thinking it over again elizabeth said her uncle as they drove from the town and really upon serious consideration i am much more inclined than i was to judge as your eldest sister does of the matter </s>	3307723.2703162204
+<s> <s> they had been walking about the place with some of their new friends and were just returned to the inn to dress themselves for dining with the same family when the sound of a carriage drew them to a window and they saw a gentleman and lady in a <unk> driving up the street </s>	14058886.606327487
+<s> <s> mr </s>	736070643.2743852
+<s> <s> that is very strange </s>	24564787.960189603
+<s> <s> upon this information they instantly passed through the hall once more and ran across the lawn after their father who was <unk> <unk> his way towards a small <unk> on one side of the <unk> </s>	1510653.4018913603
+<s> <s> jane could have no <unk> from elizabeth where confidence would give pleasure and instantly <unk> her acknowledged with the <unk> emotion that she was the happiest creature in the world </s>	6031955.555384001
+<s> <s> darcy s conduct in it less than <unk> was capable of a turn which must make him entirely <unk> <unk> the whole </s>	5268461.334611625
+<s> <s> darcy about it if you had rather not </s>	13790887.89786509
+<s> <s> of his former way of life nothing had been known in hertfordshire but what he told himself </s>	1334631.6485281184
+<s> <s> i am not equal to it </s>	470283868.44006777
+<s> <s> and her neighbours at lucas lodge therefore for through their communication with the collinses the report she concluded had reached lady catherine had only set down as almost certain and immediate which had looked forward to as possible at some future time </s>	557175.9939403227
+<s> <s> he knows of my being in town i am certain from something she said herself and yet it should seem by her manner of talking as if she wanted to persuade herself that he is really partial to miss darcy </s>	62172776.580214426
+<s> <s> we seem to have been designed for each other </s>	2673157695.035944
+<s> <s> your father was gone your uncle at home and as i said before they had a great deal of talk together </s>	20210561.47339184
+<s> <s> lady catherine herself says that in point of true beauty miss de bourgh is far superior to the handsomest of her sex because there is that in her features which <unk> the young woman of distinguished birth </s>	2051490.690201942
+<s> <s> she <unk> she esteemed she was grateful to him she felt a real interest in his welfare and she only wanted to know how far she wished that welfare to depend upon herself and how far it would be for the happiness of both that she should <unk> the power which her fancy told her she still <unk> of bringing on the renewal of his addresses </s>	3000139.2594191777
+<s> <s> hill in great astonishment don t you know there is an express come for master from mr </s>	1172423.945858028
+<s> <s> bennet who assured him with some <unk> that they were very well able to keep a good <unk> and that her daughters had nothing to do in the <unk> </s>	4520135.807756041
+<s> <s> bennet and we shall very soon settle it with her i am sure </s>	246457009.70793775
+<s> <s> of all his sister s falsehood and contrivance </s>	9381148.48238589
+<s> <s> she had been unwilling to mention bingley and the <unk> state of her own feelings had made her equally avoid the name of his friend </s>	7352753.965176133
+<s> <s> such a countenance such manners </s>	1731805.4201196942
+<s> <s> they were to be off as soon as possible </s>	1749905782.8036866
+<s> <s> you must learn some of my philosophy </s>	1049326.9582102145
+<s> <s> it was <unk> to him to his reserve and want of proper consideration that wickham s character had been so <unk> and consequently that he had been received and noticed as he was </s>	20024514.465653762
+<s> <s> there is no <unk> so <unk> to their feelings </s>	2370974.127323475
+<s> <s> your humility mr </s>	1225112.6900563594
+<s> <s> the carriage was sent to meet them at and they were to return in it by </s>	4338312.587986464
+<s> <s> but it ought to be done and if you will give me a <unk> of paper it shall be done directly </s>	6509078.55436719
+<s> <s> but make a virtue of it by all means </s>	37944707.89149445
+<s> <s> and when her sisters <unk> it as <unk> she added with perfect <unk> oh </s>	856492.6309117667
+<s> <s> wickham passed all his youth there you know </s>	542782.0258430286
+<s> <s> poor reynolds she was always very fond of me </s>	45802825.08393523
+<s> <s> she looked at jane and smiled and shook her head by <unk> </s>	445608309.183501
+<s> <s> with respect to wickham the <unk> soon found that he was not held there in much estimation for though the chief of his concerns with the son of his <unk> were <unk> understood it was yet a well known fact that on his quitting derbyshire he had left many debts behind him which mr </s>	3640197.6024866397
+<s> <s> what are men to <unk> and <unk> </s>	303138.09213399386
+<s> <s> i would go and see her if i could have the carriage </s>	309346258.7353814
+<s> <s> only think what a miserable summer else we shall have </s>	10924513.559682589
+<s> <s> let her go then </s>	858975920.1675788
+<s> <s> so do not put yourself to inconvenience </s>	369514.99448992475
+<s> <s> i must beg therefore to be <unk> no farther on the subject </s>	2138301.692624589
+<s> <s> the possibility of mr </s>	1436878919.571636
+<s> <s> lizzy is only headstrong in such matters as these </s>	1287822.7535903507
+<s> <s> what are you telling miss bennet </s>	16454186.893435556
+<s> <s> very much </s>	883213423.2814349
+<s> <s> the former was <unk> between admiration of the <unk> which exercise had given to her complexion and doubt as to the occasion s <unk> her coming so far alone </s>	544600.92430104
+<s> <s> mr </s>	736070643.2743852
+<s> <s> from what she had said of her resolution to prevent their marriage it occurred to elizabeth that she must <unk> an application to her nephew and how might take a <unk> representation of the evils attached to a connection with her she dared not <unk> </s>	13609540.541862931
+<s> <s> his air was grave and <unk> and his manners were very formal </s>	3331952.7798179444
+<s> <s> to elizabeth it appeared that had her family made an agreement to expose themselves as much as they could during the evening it would have been impossible for them to play their parts with more spirit or finer success and happy did she think it for bingley and her sister that some of the <unk> had escaped his notice and that his feelings were not of a sort to be much distressed by the folly which he must have witnessed </s>	4861772.425132843
+<s> <s> darcy drew his chair a little towards her and said cannot have a right to such very strong <unk> attachment </s>	4599946.918764866
+<s> <s> if he means to be but little at netherfield it would be better for the neighbourhood that he should give up the place entirely for then we might possibly get a settled family there </s>	2434871.748651458
+<s> <s> very frequently were they <unk> for this insensibility by kitty and lydia whose own misery was <unk> and who could not comprehend such in any of the family </s>	2081815.169477343
+<s> <s> the present unhappy state of the family rendered any other excuse for the <unk> of her spirits unnecessary nothing therefore could be <unk> <unk> from though elizabeth who was by this time tolerably well acquainted with her own feelings was perfectly aware that had she known nothing of darcy she could have borne the dread of lydia s infamy somewhat better </s>	1868178.9587517816
+<s> <s> the whole party before them indeed excited a lively attention </s>	949119.967853803
+<s> <s> bingley and jane were standing together a little <unk> from the rest and talked only to each other </s>	1952918.1997804858
+<s> <s> their manners are not equal to his </s>	2609956.7721681744
+<s> <s> she was now in an <unk> as violent from delight as she had ever been <unk> from alarm and vexation </s>	2638684.0607479233
+<s> <s> indeed i had </s>	9286752634.263346
+<s> <s> removed </s>	81277.89410586988
+<s> <s> we dressed up <unk> in woman s clothes on purpose to pass for a lady only think what fun </s>	853770.9923901117
+<s> <s> true </s>	1906306255749.8525
+<s> <s> mr </s>	736070643.2743852
+<s> <s> and mrs </s>	2445689840.817142
+<s> <s> cried mrs </s>	376223561206.91046
+<s> <s> oh </s>	2500388979.216371
+<s> <s> she looked at her father to <unk> his interference lest mary should be <unk> all night </s>	13186227.124743555
+<s> <s> is that his design in <unk> here </s>	352165.33268383564
+<s> <s> yes it would be much better to wait till jane was well and by that time most likely <unk> <unk> would be at meryton again </s>	842651.0329976762
+<s> <s> elizabeth was forced to give into a little falsehood here for to acknowledge the <unk> of their conversation was impossible </s>	1986133.9590734427
+<s> <s> the rest of the evening brought her little amusement </s>	19205851.69339857
+<s> <s> he protested that she should receive from him no <unk> of affection whatever on the occasion </s>	118716956.75518644
+<s> <s> in the <unk> of her feelings she resolved on one effort more and turning to elizabeth said miss eliza bennet let me persuade you to follow my <unk> and take a turn about the room i assure you it is very <unk> after sitting so long in one <unk> </s>	2198887.0074968114
+<s> <s> yours ever caroline bingley </s>	2231257.4899227633
+<s> <s> he made her an offer in this very room and she refused him </s>	6926964.955883735
+<s> <s> she was not near enough to hear any of their discourse but she could see how seldom they spoke to each other and how formal and cold was their manner whenever they did </s>	5352458.537323271
+<s> <s> bennet before breakfast a conversation beginning with his and leading naturally to the <unk> of his hopes that a mistress for it might be found at longbourn produced from her <unk> very <unk> smiles and general encouragement a <unk> against the very jane he had fixed on as to her daughters she could not take upon her to say she could not <unk> answer but she did not of any <unk> her daughter she must just mention she felt it incumbent on her to hint was likely to be very soon enga ged </s>	877428.8485216824
+<s> <s> all what all five out at once </s>	1541706.2831928397
+<s> <s> i will not spend hours in running after my neighbours every time they go away and come back again </s>	2288615.8344194377
+<s> <s> i honour your <unk> </s>	361958.2090828284
+<s> <s> </s>	5246943647.220474
+<s> <s> darcy would never have <unk> such a proposal if he had not been well assured of his cousin s <unk> </s>	10446107.29290243
+<s> <s> she could think of nothing else and yet whether bingley s regard had really <unk> away or were <unk> by his friends interference whether he had been aware of jane s attachment or whether it had escaped his observation <unk> were the case though her opinion of him must be materially affected by the difference her sister s situation remained the same her peace equally <unk> </s>	3113730.5044697397
+<s> <s> it is a relation which you tell me is to give you great surprise i hope at least it will not afford you any displeasure </s>	25632070.47115455
+<s> <s> there is not one of his <unk> or servants but what will give him a good name </s>	5930548.374058295
+<s> <s> miss bingley however was incapable of <unk> mr </s>	981195.0060895341
+<s> <s> her sisters were uneasy for her but her mother was delighted </s>	13017924.238160787
+<s> <s> darcy s indifference and she could do nothing but wonder at such a want of <unk> or fear that perhaps instead of his seeing too she might have fancied too </s>	1429441.524535184
+<s> <s> why he has four or five thousand and very likely more </s>	550171969.6199894
+<s> <s> but when she read and with the <unk> attention the particulars immediately following of wickham s <unk> all pretensions to the living of his receiving in lieu so considerable a sum as three thousand pounds again was she forced to <unk> </s>	1532569.5321666775
+<s> <s> into house in this neighbourhood they shall never have <unk> </s>	482114.67868314247
+<s> <s> collins might never make the offer and till he did it was useless to <unk> about him </s>	3259656.8474890394
+<s> <s> they have some of the <unk> woods in the country </s>	13308800.495622836
+<s> <s> i am only resolved to act in that manner which will in my own opinion <unk> my happiness without <unk> to or to any person so wholly unconnected with me </s>	1244570.281080115
+<s> <s> mr </s>	736070643.2743852
+<s> <s> and is quite impossible for he is now in the <unk> of his friend and mr </s>	444990249.7260129
+<s> <s> elizabeth equally next to jane in birth and beauty succeeded her of course </s>	528195.6450629618
+<s> <s> bingley was <unk> civil in his answer and forced his younger sister to be civil also and say what the occasion required </s>	489737.1328335046
+<s> <s> and you saw the old housekeeper i suppose </s>	1425480.107069552
+<s> <s> if i wished to think <unk> of any body s children it should not be of my own however </s>	5602911.367295444
+<s> <s> for <unk> years he produced and distributed project ebooks with only a <unk> <unk> of <unk> support </s>	468383.34410133056
+<s> <s> were it known to the rest of my family i should not have merely my own gratitude to express </s>	28912666.73385109
+<s> <s> bingley was <unk> </s>	14848431.028736718
+<s> <s> but when they had <unk> he said to her mrs </s>	49328712.46165655
+<s> <s> but suppose as much as you chuse give a <unk> to your fancy indulge your <unk> in every possible <unk> which the subject will afford and unless you believe me actually married you cannot greatly <unk> </s>	1068582.8190178839
+<s> <s> gardiner </s>	3208397255.339935
+<s> <s> darcy and <unk> all his time to the care of the pemberley property </s>	19566044.076526266
+<s> <s> darcy seemed much pleased with the attention </s>	19081240.35809515
+<s> <s> the <unk> and yet the <unk> the <unk> and yet the of all these people what would i give to hear your <unk> on them </s>	601746.0116801424
+<s> <s> it was rather small but well <unk> and convenient and every thing was fitted up and <unk> with a <unk> and <unk> of which elizabeth gave charlotte all the credit </s>	481095.8170546559
+<s> <s> collins was <unk> in her praise </s>	22845074.37558735
+<s> <s> she dreaded seeing wickham again and was resolved to avoid it as long as possible </s>	2668849.482198697
+<s> <s> miss bingley said he has given me credit for more than can be </s>	19167025.573002722
+<s> <s> wickham did not play at whist and with ready delight was he received at the other table between elizabeth and lydia </s>	8686482.533310948
+<s> <s> most earnestly did she then <unk> him to lose no more time before he wrote </s>	21081598.97167062
+<s> <s> darcy to be <unk> his father s favourite in such a manner one whom his father had promised to provide for it is impossible </s>	18771903.340766795
+<s> <s> when those dances were over she returned to charlotte lucas and was in conversation with her when she found herself suddenly addressed by mr </s>	34088409.0651367
+<s> <s> it is fortunate then that they fall to my <unk> instead of to yours </s>	3615447.233917973
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> bennet treated the matter differently </s>	351749.4674072257
+<s> <s> allowing for the common <unk> of the game mr </s>	2858823.6177875027
+<s> <s> oh </s>	2500388979.216371
+<s> <s> <unk> and <unk> i can easily believe him but this step and let us rejoice over it <unk> nothing bad at heart </s>	200748.0039143366
+<s> <s> jane was so admired nothing could be like it </s>	4135843.664320855
+<s> <s> bennet found with amazement and horror that her husband would not <unk> a <unk> to <unk> clothes for his daughter </s>	132568.28259373875
+<s> <s> may ask questions which shall not choose to answer </s>	18761311.40280379
+<s> <s> she was now on being settled at home at leisure to observe the real state of her sister s spirits </s>	2095542.8489271977
+<s> <s> with the officers </s>	369697221065.91425
+<s> <s> i should be sorry indeed if it were </s>	27468260.29988628
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> <unk> s note <unk> and <unk> <unk> have been made so that there is <unk> within the book </s>	125214.67104983352
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> why must their marriage be private </s>	6478390.681136303
+<s> <s> collins s correspondence for any consideration </s>	1552353.591438132
+<s> <s> the latter was thinking only of his breakfast </s>	10506158.95915361
+<s> <s> some states do not allow <unk> of certain <unk> <unk> or the <unk> or <unk> of certain <unk> of <unk> </s>	121449.32047049467
+<s> <s> it was not without an effort <unk> that she could wait even for longbourn before she told her sister of mr </s>	2098832.0579404123
+<s> <s> it would surely be much more rational if conversation instead of dancing made the order of the day </s>	653224.2424497376
+<s> <s> bennet replied his wife how can you be so <unk> </s>	51723642.19071848
+<s> <s> she then ran <unk> off rejoicing as she <unk> about in the hope of being at home again in a day or two </s>	13863290.916867565
+<s> <s> with no expectation of pleasure but with the <unk> curiosity elizabeth opened the letter and to her still increasing wonder perceived an <unk> <unk> two <unk> of letter paper written quite through in a very close hand the <unk> itself was likewise full <unk> her way along the lane she then began it </s>	1157579.0098358195
+<s> <s> nothing of the past was recollected with pain and lydia led voluntarily to subjects which her sisters would not have alluded to for the world </s>	885668.0797389809
+<s> <s> why jane you never dropt a word of this you <unk> thing </s>	691609.8427775906
+<s> <s> hurst and miss bingley and elizabeth was convinced that they held her in contempt for it </s>	96668250.59721358
+<s> <s> they were natural and just </s>	2629735.0497794496
+<s> <s> we do not <unk> donations in <unk> where we have not received written <unk> of compliance </s>	3298752.6958256317
+<s> <s> she did not choose it said her daughter she would go </s>	9850181.720897634
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> we must not be so ready to fancy ourselves <unk> <unk> </s>	236832441.53239486
+<s> <s> if i had ever learnt i should have been a great <unk> </s>	88866939.37240453
+<s> <s> but when the gentlemen entered jane was no longer the first object </s>	296271936.5153597
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> on opening the door she perceived her sister and bingley standing together over the <unk> as if enga ged in earnest conversation and had this led to no suspicion the <unk> of both as they hastily turned round and moved away from each other would have told it all </s>	731029.9952950643
+<s> <s> i would advise you merely to put on whatever of your clothes is superior to the rest there is no occasion for any thing more </s>	103692347.22584844
+<s> <s> from this day you must be a stranger to one of your parents your mother will never see you again if you do marry mr </s>	152032000.80958125
+<s> <s> said lydia <unk> i am not afraid for though i the youngest i m the <unk> </s>	2390876.9426381234
+<s> <s> sir william and lady lucas were speedily applied to for their consent and it was bestowed with a most <unk> alacrity </s>	12292472.967577824
+<s> <s> she is a very great favourite with some ladies of my acquaintance mrs </s>	20040807.817110784
+<s> <s> but the gentlemen will have mr </s>	14624801.458549507
+<s> <s> by mrs </s>	172986108.66650683
+<s> <s> gardiner a letter arrived for their father from a different quarter from mr </s>	1518908.7335648295
+<s> <s> while there was an officer in meryton they would flirt with him and while meryton was within a walk of longbourn they would be going there for ever </s>	1210131.8129884405
+<s> <s> a few weeks he believed </s>	33783657.043787256
+<s> <s> this must be a most <unk> sitting room for the evening in summer the windows are full <unk> </s>	31113883.807291813
+<s> <s> wickham was not at all more distressed than herself but his manners were always so pleasing that had his character and his marriage been exactly what they ought his smiles and his easy address while he <unk> their relationship would have delighted them all </s>	745473.433938025
+<s> <s> darcy <unk> </s>	1280193.0326438213
+<s> <s> she blushed again and again over the perverseness of the meeting </s>	38473215.12468459
+<s> <s> to mr </s>	21431889008.06899
+<s> <s> when the gentlemen rose to go away mrs </s>	60838110.42415007
+<s> <s> when this information was given and they had all taken their <unk> mr </s>	685503.4265626819
+<s> <s> dear dear lizzy </s>	16769878009.119068
+<s> <s> her astonishment at his coming at his coming to netherfield to longbourn and voluntarily seeking her again was almost equal to what she had known on first <unk> his altered behaviour in derbyshire </s>	8925350.758479768
+<s> <s> darcy a most intimate <unk> friend </s>	280325.9831409387
+<s> <s> and with a low bow he left her to attack mr </s>	826422.4494511491
+<s> <s> in the project gutenberg literary archive foundation was created to provide a secure and <unk> future for project and future <unk> </s>	4340163.046785731
+<s> <s> after many <unk> and many <unk> of other subjects elizabeth could not help <unk> once more to the first and saying i am astonished at his intimacy with mr </s>	8268180.67510357
+<s> <s> darcy that to be in the same room the same party with him for so many hours together might be more than i could bear and that <unk> might arise unpleasant to more than myself </s>	14614865.450265791
+<s> <s> <unk> <unk> must be paid within days following each date on which you prepare or are <unk> required to prepare your <unk> tax <unk> </s>	89213.91067341204
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> but if he <unk> no more this winter my choice will never be required </s>	40394118.51503373
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> one of them does </s>	3196288.0785956755
+<s> <s> i have not forgot you see and i assure you i was very much disappointed that you did not come back and keep your enga gement </s>	129435088.39008136
+<s> <s> there was certainly at this moment in elizabeth s mind a more gentle <unk> towards the original than she had ever felt in the <unk> of their acquaintance </s>	3721087.9931451525
+<s> <s> my dear cried his wife i cannot bear to hear that mentioned </s>	936426217.5155895
+<s> <s> no indeed i felt nothing but surprise </s>	34314293.71395706
+<s> <s> it was a handsome <unk> <unk> well <unk> on rising ground </s>	1041651.4947568915
+<s> <s> that the wish of giving happiness to you might add force to the other <unk> which led me on i shall not attempt to deny </s>	7956602.82101722
+<s> <s> but in all and in almost every line of each there was a want of that cheerfulness which had been used to <unk> her style and which proceeding from the <unk> of a mind at ease with itself and kindly disposed towards every one had been scarcely ever <unk> </s>	662259.3694314165
+<s> <s> she had dressed with more than usual care and prepared in the highest spirits for the <unk> of all that remained <unk> of his heart <unk> that it was not more than might be <unk> in the course of the evening </s>	8824969.944618084
+<s> <s> bennet withdrew to the library she saw mr </s>	38061768.99408386
+<s> <s> denny comes back from town </s>	29368941.365877837
+<s> <s> i expected you to stay two months </s>	235971360.037773
+<s> <s> and now do when you get to town find them out wherever they may be and if they are not married already them marry </s>	4678699.782231657
+<s> <s> well how pleased i am </s>	1564557.779872592
+<s> <s> darcy had been standing near enough for her to <unk> a conversation between him and mr </s>	14994154.100248255
+<s> <s> their affectionate mother <unk> all their <unk> she remembered what she had herself <unk> on a <unk> occasion five and twenty years ago </s>	5098468.084005087
+<s> <s> darcy he <unk> with a bow of superior <unk> to compliment him on his dancing and his partner </s>	974979.9654964699
+<s> <s> darcy </s>	1238821253.4508119
+<s> <s> she had always felt that charlotte s opinion of matrimony was not exactly like her own but she could not have supposed it possible that when called into <unk> she would have <unk> every better feeling to <unk> advantage </s>	5461184.190331677
+<s> <s> elizabeth had now but little time for conversation with her sister for while he was present jane had no attention to bestow on any one else but she found herself <unk> useful to both of them in those hours of separation that must sometimes occur </s>	2984542.360880088
+<s> <s> wickham had resolved on quitting the militia </s>	23723378.04129509
+<s> <s> your first <unk> is false </s>	513226.3081311687
+<s> <s> her behaviour to my dear charlotte is charming </s>	89642843.65035622
+<s> <s> she lost all concern for him in finding herself thus <unk> as the object of such idle and <unk> gallantry and while she <unk> <unk> it could not but feel the <unk> contained in his believing that however long and for whatever cause his attentions had been <unk> her vanity would be gratified and her preference secured at any time by their renewal </s>	401565.42757802556
+<s> <s> oh that i knew how it was </s>	916086454.098946
+<s> <s> eyes had been soon and repeatedly turned towards them with a look of curiosity and that her ladyship after a while <unk> the feeling was more openly acknowledged for she did not <unk> to call out what is that you are saying fitzwilliam </s>	2550430.748423603
+<s> <s> why is not every body as happy </s>	39029779.176706076
+<s> <s> i wonder said he at the next opportunity of speaking whether he is likely to be in this country much longer </s>	13316820.07323216
+<s> <s> she <unk> for it however by supposing that her last letter to her friend from longbourn had by some accident been lost </s>	1240684.4232473657
+<s> <s> i am no stranger to the particulars of your youngest sister s <unk> elopement </s>	1987879.1857119536
+<s> <s> it was necessary to make this circumstance a matter of pleasure because on such occasions it is the <unk> but no one was less likely than mrs </s>	18732625.24125809
+<s> <s> did you see it </s>	134244807.71709085
+<s> <s> these recollections will not do at all </s>	3506905.8561158017
+<s> <s> do let me ask my partner to introduce you </s>	1715521.6782706312
+<s> <s> mr </s>	736070643.2743852
+<s> <s> no she would go home </s>	492056.2113505233
+<s> <s> i am sure i <unk> <unk> get a <unk> of <unk> all night </s>	5239066.168175731
+<s> <s> but i am particularly attached to these young men and know them to be so much attached to me they were excessively sorry to go </s>	3299663.545280192
+<s> <s> mary wished to say something very sensible but knew not how </s>	1421359.9598658308
+<s> <s> james s </s>	37902749792.97009
+<s> <s> perhaps i do </s>	3923136471.682263
+<s> <s> she dreaded lest the <unk> had been mistaken </s>	13493365.597830549
+<s> <s> he sat down for a few moments and then getting up walked about the room </s>	19668100.45779757
+<s> <s> i must beg to return to the house </s>	662642414.4943075
+<s> <s> if a woman <unk> her affection with the same <unk> from the object of it she may lose the opportunity of <unk> him and it will then be but poor consolation to believe the world equally in the <unk> </s>	2087269.44486253
+<s> <s> no officer is ever to enter my house again nor even to pass through the village </s>	1475732.1517376231
+<s> <s> it was the second week in may in which the three young ladies set out together from for the town of in hertfordshire and as they drew near the <unk> inn where mr </s>	25352767.86309569
+<s> <s> dear madam cried mrs </s>	21806372.55348034
+<s> <s> darcy </s>	1238821253.4508119
+<s> <s> our distress my dear lizzy is very great </s>	5174018.00314662
+<s> <s> collins expected the scene to <unk> and was but slightly affected by his <unk> of the windows in <unk> of the house and his relation of what the <unk> altogether had <unk> cost sir <unk> de bourgh </s>	1862185.9485399614
+<s> <s> elizabeth was <unk> enough to see it all but she could see it and write of it without material pain </s>	4792415.467959878
+<s> <s> mr </s>	736070643.2743852
+<s> <s> the very first sentence <unk> the assurance of their being all settled in london for the winter and concluded with her brother s regret at not having had time to pay his respects to his friends in hertfordshire before he left the country </s>	66074297.4957521
+<s> <s> it was not known that wickham had a single relation with whom he kept up any connection and it was certain that he had no near one living </s>	9267351.359197363
+<s> <s> darcy did not wish for cards and mr </s>	726148.7443626729
+<s> <s> bingley was to bring twelve ladies and <unk> gentlemen with him to the assembly </s>	12413398.135342836
+<s> <s> darcy </s>	1238821253.4508119
+<s> <s> she highly <unk> his forbearance and they had leisure for a full discussion of it and for all the commendation which they <unk> bestowed on each other as wickham and another officer walked back with them to longbourn and during the walk he particularly attended to her </s>	2348458.73434009
+<s> <s> yes i understand you perfectly </s>	6089640.800328077
+<s> <s> but you forget <unk> said elizabeth that we shall meet him at the <unk> and that mrs </s>	3955422.0878153015
+<s> <s> bennet looking as <unk> as may be and <unk> no more for us than if we were at <unk> provided she can have her own way but i tell you what miss lizzy if you take it into your head to go on refusing every offer of marriage in this way you will never get a husband at all and i am sure i do not know who is to <unk> you when your father is dead shall not be able to keep you and so i <unk> you i have done with you from this very day i told you in the library you know that i should never speak to you again and you will find me as good as my word </s>	20335954.679198794
+<s> <s> here leading the way through every walk and cross walk and scarcely allowing them an <unk> to <unk> the <unk> he asked for every view was pointed out with a <unk> which left beauty entirely behind </s>	334131.5410298707
+<s> <s> among those who are at all his <unk> in consequence he is a very different man from what he is to the less <unk> </s>	2239722.0950958007
+<s> <s> after tea mr </s>	1268145.0089289849
+<s> <s> bingley <unk> property to the <unk> of nearly an hundred thousand pounds from his father who had intended to purchase an estate but did not live to do it mr </s>	517301.6049000181
+<s> <s> lizzy is not a <unk> better than the others and i am sure she is not half so handsome as jane nor half so good humoured as lydia </s>	3455352.1346929525
+<s> <s> her father had been an <unk> in meryton and had left her four thousand pounds </s>	19287180.516800314
+<s> <s> if he does not come to me said she i shall give him up for ever </s>	4485714481.810936
+<s> <s> she had only to say in reply that they had <unk> about till she was beyond her own knowledge </s>	116202076.36381054
+<s> <s> you were <unk> with the women who were always speaking and looking and thinking for approbation alone </s>	404551.9514138673
+<s> <s> her thoughts were all fixed on that one spot of pemberley house <unk> it might be where mr </s>	3338144.8833586327
+<s> <s> bennet s <unk> were much more <unk> on the occasion and such as he did <unk> he pronounced to be of a most agreeable sort for it gratified him he said to discover that charlotte lucas whom he had been used to think tolerably sensible was as foolish as his wife and more foolish than his daughter </s>	3032265.5218302095
+<s> <s> and have you answered the letter </s>	651954019.7492408
+<s> <s> yes always she replied without knowing what she said for her thoughts had <unk> far from the subject as soon afterwards appeared by her suddenly <unk> i remember hearing you once say mr </s>	940618.2711646089
+<s> <s> miss bingley is to live with her brother and keep his house and i am much mistaken if we shall not find a very charming neighbour in her </s>	56328051.32179918
+<s> <s> she was not the better pleased with his gallantry from the idea it suggested of something more it now first struck her that was <unk> from among her sisters as <unk> of being the mistress of hunsford parsonage and of <unk> to form a quadrille table at rosings in the absence of more eligible visitors </s>	760225.8847227001
+<s> <s> chapter i </s>	127507013129.50276
+<s> <s> they were in street </s>	109330895.65826708
+<s> <s> but it was her business to be satisfied and certainly her temper to be happy and all was soon right again </s>	3505717.6217424413
+<s> <s> i cannot think of it without abhorrence </s>	68383728.33299582
+<s> <s> darcy s farther notice though often standing within a very short distance of her quite <unk> he never came near enough to speak </s>	4440695.388226632
+<s> <s> such <unk> <unk> mr </s>	855870.598738092
+<s> <s> shall we ask him why a man of sense and education and who has lived in the world is ill qualified to recommend himself to strangers </s>	37818628.70028946
+<s> <s> but the fact is that we are very different sort of men and that he <unk> me </s>	96272328.51328628
+<s> <s> as they went down stairs together charlotte said i shall depend on hearing from you very often eliza </s>	4089633.470623641
+<s> <s> the principal <unk> of his letter was to inform them that mr </s>	19225071.21634575
+<s> <s> mr </s>	736070643.2743852
+<s> <s> i enquired after their brother of course </s>	1635589.7626975607
+<s> <s> oh </s>	2500388979.216371
+<s> <s> when the ladies returned to the there was little to be done but to hear lady catherine talk which she did without any <unk> till coffee came in <unk> her opinion on every subject in so <unk> a manner as proved that she was not used to have her judgment <unk> </s>	10066912.196126504
+<s> <s> if i have i shall be the last person to confess it </s>	11124330.101955974
+<s> <s> i desire you will do no such thing </s>	782976199.3284581
+<s> <s> collins returned the gentlemen accompanied him </s>	3150860.8421425996
+<s> <s> he had to be sure done much </s>	44610327.002738915
+<s> <s> the idea soon reached to conviction as she observed his increasing civilities <unk> herself and heard his frequent attempt at a compliment on her wit and <unk> and though more astonished than gratified herself by this effect of her <unk> it was not long before her mother gave her to understand that the probability of their marriage was exceedingly agreeable to </s>	615310.5932581198
+<s> <s> gardiner it had a <unk> strong <unk> </s>	291074.9235835474
+<s> <s> darcy </s>	1238821253.4508119
+<s> <s> but whatever may be their own wishes it is very unlikely they should have opposed their brother s </s>	822414.2611424557
+<s> <s> he is nothing to us you know and i am sure never want to see him again </s>	81327216.01229602
+<s> <s> he was on one side of her mother </s>	2095682589.9976823
+<s> <s> you may depend upon my seeking no <unk> </s>	55665046.33903713
+<s> <s> bingley and his eldest sister to observe the game </s>	8419747.945826517
+<s> <s> here are officers enough at meryton to <unk> all the young ladies in the country </s>	51484483.63929554
+<s> <s> the commendation bestowed on him by mrs </s>	1027458.5968904591
+<s> <s> a young man such as you describe mr </s>	8027082.625237361
+<s> <s> monday <unk> </s>	84108.49199383894
+<s> <s> mr </s>	736070643.2743852
+<s> <s> darcy it is very <unk> in you to mention all that you knew to my disadvantage in hertfordshire and give me leave to say very <unk> too for it is <unk> me to <unk> and such things may come out as will <unk> your relations to hear </s>	690379.0298199208
+<s> <s> bennet before you take any or all of these houses for your son and daughter let us come to a right understanding </s>	585816.9276919025
+<s> <s> mr </s>	736070643.2743852
+<s> <s> when the clock struck three elizabeth felt that she must go and very unwillingly said so </s>	5689680.7458012095
+<s> <s> and pray lizzy what said lady catherine about this report </s>	3780216.6061086557
+<s> <s> no i do not know that you were wrong in saying what you did </s>	63838700.67071684
+<s> <s> nothing is more <unk> said darcy than the appearance of humility </s>	604050.373266963
+<s> <s> bingley with having promised on his first coming into the country to give a ball at netherfield </s>	106827696.38540062
+<s> <s> collins was <unk> <unk> them in what they were to expect that the sight of such rooms so many servants and so <unk> a dinner might not wholly <unk> them </s>	692891.6980132702
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> bingley from your sister and the other that i had in <unk> of various claims in <unk> of honour and <unk> <unk> the immediate <unk> and <unk> the <unk> of mr </s>	1648093.5241617702
+<s> <s> why at that rate you will have been here only six weeks </s>	2900830.5494620046
+<s> <s> in lydia s <unk> a visit to brighton <unk> every possibility of <unk> happiness </s>	1743336.5147972791
+<s> <s> kitty to her very material advantage spent the chief of her time with her two elder sisters </s>	57162187.763542116
+<s> <s> she had scarcely <unk> her present observation to be satisfied from the reason of things that their elopement had been brought on by the strength of her love rather than by his and she would have wondered why without violently <unk> for her he chose to <unk> with her at all had she not felt certain that his <unk> was rendered necessary by distress of circumstances and if that were the case he was not the young man to resist an opportunity of having a companion </s>	4355430.811415042
+<s> <s> he wisely resolved to be particularly <unk> that no <unk> of admiration should escape him nothing that could <unk> her with the hope of <unk> his felicity sensible that if such an idea had been suggested his behaviour during the last day must have material weight in <unk> or <unk> it </s>	1009608.4823353259
+<s> <s> lady catherine listened to half a song and then talked as before to her other nephew till the latter walked away from her and moving with his usual deliberation towards the <unk> himself so as to command a full view of the fair <unk> s countenance </s>	961468.2344612102
+<s> <s> in <unk> to her all the grandeur of lady catherine and her <unk> with occasional <unk> in praise of his own humble abode and the <unk> it was receiving he was happily employed <unk> the gentlemen joined them and he found in mrs </s>	4464495.489128536
+<s> <s> darcy who was <unk> against the with his eyes fixed on her face seemed to catch her words with no less resentment than surprise </s>	1013785.3654737691
+<s> <s> elizabeth at work in the opposite <unk> saw it all with great delight </s>	7578202.18370458
+<s> <s> darcy or at least by the <unk> of virtue <unk> for those <unk> <unk> under which she would endeavour to <unk> what mr </s>	1013003.7800709828
+<s> <s> darcy walk into the room </s>	6499412.400205713
+<s> <s> bennet and kitty though she was perfectly unknown to them even inferior to what elizabeth felt </s>	6566438.883059573
+<s> <s> darcy she moved again towards the gate </s>	1031025.4597463174
+<s> <s> be assured my dear sir that mrs </s>	6273332.480806986
+<s> <s> her performance was pleasing though by no means capital </s>	4589418.028135858
+<s> <s> no not at all </s>	68281256.40618214
+<s> <s> now was the moment for her resolution to be <unk> and while her courage was high she immediately said mr </s>	1559781.8567774252
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> were always good friends and now we are better </s>	1800460.4995714973
+<s> <s> i cannot see why mrs </s>	41753282.17551127
+<s> <s> another intreaty that she would be serious however produced the desired effect and she soon satisfied jane by her <unk> assurances of attachment </s>	2537830.0083615812
+<s> <s> but it is very likely that he fall in love with one of them and therefore you must visit him as soon as he comes </s>	20924507.778193623
+<s> <s> my dear father i congratulate you </s>	3267843425.580058
+<s> <s> collins and mr </s>	203175161.47297257
+<s> <s> can you come </s>	69830934.10723409
+<s> <s> had they no apprehension of any thing before the elopement took place </s>	4244055.010789697
+<s> <s> do not imagine miss bennet that your <unk> will ever be gratified </s>	12100985.513763903
+<s> <s> you will not find him more <unk> spoken of by any one </s>	3265374.3442129255
+<s> <s> elizabeth s spirits soon rising to <unk> again she wanted mr </s>	2274503.0820167847
+<s> <s> certainly cried his <unk> <unk> no one can be really esteemed accomplished who does not greatly <unk> what is usually met with </s>	670588.4799309628
+<s> <s> elizabeth was now most heartily sorry that she had from the distress of the moment been led to make mr </s>	13436626.762476034
+<s> <s> your picture may be very <unk> louisa said bingley but this was all lost upon me </s>	1493944.1436932788
+<s> <s> let me never see either one or the other again </s>	3752828.5320742894
+<s> <s> she longed to know what at that moment was passing in his mind in what manner he thought of her and whether in <unk> of every thing she was still dear to him </s>	181045946.57522595
+<s> <s> bennet give up the point </s>	177604106.96318272
+<s> <s> they had therefore many acquaintance in common and though wickham had been little there since the death of darcy s father five years before it was yet in his power to give her <unk> intelligence of her former friends than she had been in the way of <unk> </s>	5043104.800676504
+<s> <s> had she merely with him she might only have discovered whether he had a good <unk> but you must remember that four <unk> have been also spent together and four <unk> may do a great deal </s>	8448117.309579518
+<s> <s> i mean that no man in his senses would marry lydia on so slight a temptation as one hundred during my life and fifty after i am gone </s>	413826.3580263822
+<s> <s> her sister made not the smallest objection and the was opened and darcy after a few moments recollection was not sorry for it </s>	54436977.20334072
+<s> <s> his affection for her soon <unk> into indifference her s <unk> a little longer and in spite of her youth and her manners she <unk> all the claims to <unk> which her marriage had given her </s>	6818459.669458477
+<s> <s> so tall oh my dear lizzy </s>	486013964.70874995
+<s> <s> what should not you mind </s>	10186697.743916646
+<s> <s> to jane herself she exclaimed there could be no possibility of objection </s>	4807689.813948484
+<s> <s> i declare i do not know a more <unk> object than darcy on particular occasions and in particular places at his own house especially and of a sunday evening when he has nothing to do </s>	3019422.2776557854
+<s> <s> darcy looked up </s>	29951626.010265745
+<s> <s> she would not give him time to reply but <unk> instantly to her husband called out as she entered the library oh </s>	17151705.448635172
+<s> <s> a thousand things may arise in six months </s>	285234.24816403753
+<s> <s> do you then pretend to be ignorant of it </s>	473682557.51290786
+<s> <s> believe me my dear sir my gratitude is warmly excited by such affectionate attention and depend upon it you will speedily receive from me a letter of thanks for this as well as for every other <unk> of your regard during my stay in hertfordshire </s>	2978437.2643449837
+<s> <s> she did indeed louisa </s>	17907259.693995282
+<s> <s> bennet in equal silence was enjoying the scene </s>	14170704.61207524
+<s> <s> let me congratulate you on a very important <unk> </s>	841818.7414495657
+<s> <s> i can answer your question said fitzwilliam without <unk> to him </s>	1085808.8449421858
+<s> <s> said she </s>	24515817669.843323
+<s> <s> while these <unk> were passing in their <unk> the <unk> of elizabeth s feelings was every moment increasing </s>	8318409.8603927605
+<s> <s> indeed you must go for it will be impossible for to visit him if you do not </s>	12745815799.973087
+<s> <s> but the <unk> of lydia s prospect was shortly <unk> away for she received an invitation from mrs </s>	1024180.5230737041
+<s> <s> he readily agreed to it </s>	2688707103.513852
+<s> <s> with an air of indifference he soon afterwards added how long did you say that he was at rosings </s>	222818108.49186486
+<s> <s> it would <unk> me indeed to see you again the <unk> of miss bingley s <unk> regard </s>	8207841.058941394
+<s> <s> i am sincerely grieved for him and mrs </s>	923945720.0640513
+<s> <s> this is a wretched beginning indeed </s>	18858630.42370329
+<s> <s> she is the sort of woman whom one cannot regard with too much deference </s>	6882863.2357075345
+<s> <s> oh </s>	2500388979.216371
+<s> <s> if gratitude and esteem are good <unk> of affection elizabeth s change of sentiment will be neither improbable nor <unk> </s>	345365.1023191521
+<s> <s> do not consider me now as an elegant female intending to <unk> you but as a rational creature speaking the truth from her heart </s>	1697873.906254115
+<s> <s> are you so severe upon your own sex as to doubt the possibility of all this </s>	9727398.532491235
+<s> <s> but she had never felt so strongly as now the <unk> which must attend the children of so <unk> a marriage nor ever been so fully aware of the evils arising from so a direction of talents talents which <unk> used might at least have preserved the respectability of his daughters even if incapable of <unk> the mind of his wife </s>	531173.3021786968
+<s> <s> and so would anne if her health had allowed her to apply </s>	1480793.8419359236
+<s> <s> they had all been very since she last saw her sister </s>	29558038.97540176
+<s> <s> hurst or miss bingley and even lydia was too much fatigued to <unk> more than the occasional <unk> of lord how <unk> i am </s>	1000534.5707188471
+<s> <s> i am sure you will be very comfortable there </s>	24314357.906808425
+<s> <s> the <unk> of a parish has much to do in the first place he must make such an agreement for <unk> as may be <unk> to himself and not <unk> to his <unk> </s>	1206741.014690752
+<s> <s> but my dear elizabeth she added what sort of girl is miss king </s>	225643403.0070348
+<s> <s> is a <unk> indeed cried elizabeth </s>	1085017.4511055339
+<s> <s> will you do me the honour of reading that letter and then with a slight bow turned again into the <unk> and was soon out of sight </s>	854822.9265655002
+<s> <s> now i am quite happy said she for you will be as happy as myself </s>	43973212.62070598
+<s> <s> the family were assembled in the breakfast room to receive them </s>	4134867.851523168
+<s> <s> miss bennet he acknowledged to be pretty but she smiled too much </s>	8427509.779698402
+<s> <s> it does seem and it is most shocking indeed replied elizabeth with tears in her eyes that a sister s sense of <unk> and virtue in such a point should admit of doubt </s>	23055220.715451024
+<s> <s> here consequently was an <unk> subject of discourse </s>	2485911.86240979
+<s> <s> such amiable qualities must speak for themselves </s>	3796261.332675016
+<s> <s> why was he to be the judge </s>	163591781.68581134
+<s> <s> when first he came in he had spoken to her but little but every five minutes seemed to be giving her more of his attention </s>	18040368.929721728
+<s> <s> said she </s>	24515817669.843323
+<s> <s> bennet have you no more <unk> <unk> in which lizzy may lose her way again </s>	481760.8925268719
+<s> <s> long told me last night that he sat close to her for half an hour without once opening his lips </s>	34740892.562461115
+<s> <s> but my feelings are not only <unk> towards they are even <unk> towards miss king </s>	3120054.6010608347
+<s> <s> darcy before they had known any thing of the matter </s>	14392404.06381546
+<s> <s> all <unk> and goodness as she is </s>	2777797.468487884
+<s> <s> all <unk> <unk> were over </s>	584227.3669525491
+<s> <s> so near a <unk> to her mother and meryton relations was not desirable even to easy temper or affectionate heart </s>	1118852.065175898
+<s> <s> upon my word said mrs </s>	4142860831.44228
+<s> <s> we do not suffer by </s>	7215145.633296414
+<s> <s> she endeavoured to secure jane in her interest but jane with all possible <unk> declined <unk> and elizabeth sometimes with real <unk> and sometimes with <unk> <unk> replied to her <unk> </s>	330815.77362724533
+<s> <s> not so much as i could wish sir but i dare say he may spend half his time here and miss darcy is always down for the summer months </s>	77607635.14557533
+<s> <s> they will ruin your happiness </s>	139562387.7773112
+<s> <s> the wisest and the best of men nay the wisest and best of their actions may be rendered <unk> by a person whose first object in life is a <unk> </s>	1953242.892064635
+<s> <s> that mr </s>	95367980.5203488
+<s> <s> there was not much in the question nor in the preceding <unk> but there was a look and a manner which gave them meaning </s>	28804472.264095407
+<s> <s> to <unk> please visit www gutenberg org <unk> section </s>	799483.6464209863
+<s> <s> </s>	5246943647.220474
+<s> <s> he had some intention he added of studying the law and i must be aware that the interest of one thousand pounds would be a very insufficient support <unk> </s>	28834443.1387199
+<s> <s> darcy </s>	1238821253.4508119
+<s> <s> nothing could give either bingley or myself more delight </s>	1423758.9518322486
+<s> <s> i should never have considered the distance as one of the of the match cried elizabeth </s>	23825188.075781744
+<s> <s> till i was in kent and saw so much both of mr </s>	5661796.978189135
+<s> <s> gave them to understand that they were going to <unk> <unk> something was <unk> by denny expressing his belief that w </s>	9389967.12030382
+<s> <s> lakes <unk> and <unk> shall not be <unk> together in our <unk> nor when we attempt to describe any particular scene will we begin <unk> about its <unk> situation </s>	130611.10771030096
+<s> <s> and do you really love him quite well enough </s>	12176194.887376824
+<s> <s> no no this is not likely </s>	50812351.81794892
+<s> <s> that he should have been in love with her for so many months </s>	1178015934.421035
+<s> <s> if you were sensible of your own good you would not wish to quit the <unk> in which you have been brought up </s>	60039401.49361351
+<s> <s> had lydia and her mother known the <unk> of her <unk> with her father their indignation would hardly have found expression in their united <unk> </s>	212758.85921147396
+<s> <s> nothing occurred between them that could justify the hopes of his sister </s>	1248299.3926128726
+<s> <s> lydia talked <unk> of <unk> <unk> of the fish she had lost and the fish she had <unk> and mr </s>	253988.2166266418
+<s> <s> he acknowledged the truth of it all and said that business with his steward had occasioned his coming forward a few hours before the rest of the party with whom he had been travelling </s>	13381883.41479951
+<s> <s> kitty has no discretion in her <unk> said her father she times them ill </s>	295759.50768149155
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> they shook hands with great <unk> and then till her sister came down she had to listen to all he had to say of his own happiness and of jane s <unk> and in spite of his being a lover elizabeth really believed all his expectations of felicity to be <unk> <unk> because they had for <unk> the excellent understanding and disposition of jane and a general <unk> of feeling and taste between her and himself </s>	1365209.7548385863
+<s> <s> darcy replied with great <unk> miss elizabeth bennet </s>	1188038.9364505184
+<s> <s> she liked him too little to care for his approbation </s>	4369909.267868445
+<s> <s> i did not think you would and that being the case i cannot consider your situation with much compassion </s>	1779415.1204593414
+<s> <s> and what sort of table do they keep </s>	13905288.671981893
+<s> <s> bingley s <unk> said elizabeth warmly but you must excuse my not being convinced by assurances only </s>	2188738.2610076265
+<s> <s> to be fond of dancing was a certain step towards <unk> in love and very lively hopes of mr </s>	1119155.5284744147
+<s> <s> indeed i have sir was her answer </s>	28810780.78697881
+<s> <s> colonel fitzwilliam seemed really glad to see them any thing was a welcome relief to him at rosings and mrs </s>	19236466.858383127
+<s> <s> they are wanted in the <unk> mr </s>	1295375795.1952093
+<s> <s> they were therefore to go elizabeth was pleased though when she asked herself the reason she had very little to say in reply </s>	18147637.222254306
+<s> <s> the letter was to this effect my dear lizzy i wish you joy </s>	6093951082.689556
+<s> <s> but now it was all too natural </s>	23418464.434055112
+<s> <s> and mrs </s>	2445689840.817142
+<s> <s> elizabeth was prepared to see him in his <unk> and she could not help fancying that in displaying the good <unk> of the room its aspect and its furniture he addressed himself particularly to her as if wishing to make her feel what she had lost in refusing him </s>	3883364.0823543174
+<s> <s> i am all astonishment </s>	2421081.873414859
+<s> <s> she longed to enquire of the housekeeper whether her master were really absent but had not courage for it </s>	7309550.9142100215
+<s> <s> the park was very large and contained great variety of ground </s>	828263.162816824
+<s> <s> had his character been known this could not have happened </s>	89774861.5767053
+<s> <s> she could think only of her letter </s>	57306647.45772872
+<s> <s> a <unk> determined dislike of me a dislike which i cannot but attribute in some measure to jealousy </s>	1107767.8751148796
+<s> <s> i have known him too long and too well to be a fair judge </s>	64708450.07470034
+<s> <s> elizabeth for the sake of saying something that might turn her mother s thoughts now asked her if charlotte lucas had been at longbourn since coming away </s>	3171638.0568290767
+<s> <s> they have not the same force or <unk> and do not produce the same expression </s>	1352869.3977578897
+<s> <s> when the were removed and the card tables placed the ladies all rose and elizabeth was then <unk> to be soon joined by him when all her views were <unk> by seeing him fall a <unk> to her mother s <unk> for whist <unk> and in a few moments after seated with the rest of the party </s>	4859750.699484587
+<s> <s> their mutual affection will steady them and i flatter myself they will settle so quietly and live in so rational a manner as may in time make their past imprudence forgotten </s>	823025.1369233232
+<s> <s> a <unk> character is used to <unk> <unk> </s>	285150.0165973614
+<s> <s> darcy came so often to the parsonage it was more difficult to understand </s>	7243828.1484845495
+<s> <s> i <unk> as much </s>	361226.327233547
+<s> <s> mr </s>	736070643.2743852
+<s> <s> you may well <unk> me against such an evil </s>	176534871.09830603
+<s> <s> but this idea was soon <unk> and her spirits were very differently affected when to her <unk> amazement she saw mr </s>	1764643.0510760918
+<s> <s> at present however i consider myself as quite fixed here </s>	12479444.10441556
+<s> <s> bennet was quite <unk> </s>	169556173.60365263
+<s> <s> you shall hear what she says </s>	10955602.723902447
+<s> <s> stay stay i will go myself </s>	889908.5681737763
+<s> <s> gardiner who was several years younger than mrs </s>	88450381.93881784
+<s> <s> darcy had at first scarcely allowed her to be pretty he had looked at her without admiration at the ball and when they next met he looked at her only to <unk> </s>	3209472.0493151667
+<s> <s> not a <unk> knew of it but <unk> </s>	4797982.729903911
+<s> <s> he is also handsome replied elizabeth which a young man ought likewise to be if he possibly can </s>	1219845.9923451787
+<s> <s> i should like balls infinitely better she replied if they were carried on in a different manner but there is something <unk> <unk> in the usual <unk> of such a meeting </s>	4638788.8142454
+<s> <s> she had not at first thought very seriously of going thither but charlotte she soon found was <unk> on the plan and she gradually <unk> to consider it herself with greater pleasure as well as greater certainty </s>	1884485.0823308525
+<s> <s> cried elizabeth when she had finished </s>	16631650981.515041
+<s> <s> no thanks to his gallantry for that </s>	2449665.2167226737
+<s> <s> i have heard much of your master s fine person said mrs </s>	47049408.4684925
+<s> <s> i am not ashamed of having been mistaken or at least it is slight it is nothing in comparison of what i should feel in thinking ill of him or his sisters </s>	131247911.80792141
+<s> <s> the rest of the evening was spent in <unk> how soon he would return mr </s>	140526731.36467513
+<s> <s> you never will be able to make both of them good for any thing </s>	89699209.01911661
+<s> <s> there are a <unk> of things you can do with project electronic works if you follow the terms of this agreement and help preserve free future access to project electronic works </s>	15209363.332720121
+<s> <s> oh </s>	2500388979.216371
+<s> <s> there is also one other person in the party he continued after a pause who more particularly wishes to be known to you will you allow me or do i ask too much to introduce my sister to your acquaintance during your stay at lambton </s>	8991061.218417095
+<s> <s> two <unk> however were plainly <unk> from the whole one that elizabeth was the real cause of all the <unk> and the other that she herself had been <unk> used by them all and on these two points she principally dwelt during the rest of the day </s>	2466467.7074799025
+<s> <s> he is a <unk> <unk> amiable charming man </s>	22791904.524130378
+<s> <s> complied with </s>	18961223.3723257
+<s> <s> had she known that her sister sought to <unk> her from such <unk> and such <unk> as these what would have been her <unk> </s>	972179.1699622986
+<s> <s> jane was not happy </s>	308320798.75319403
+<s> <s> you are considering how <unk> it would be to pass many <unk> in this manner in such society and indeed i am quite of your opinion </s>	1669798.4509276408
+<s> <s> you know my sentiments </s>	204285103.93589127
+<s> <s> but of this answer lydia heard not a word </s>	94056687.329371
+<s> <s> cried elizabeth with the greatest satisfaction </s>	1148550657.966777
+<s> <s> he was most highly esteemed by mr </s>	4047845.519062307
+<s> <s> the eldest miss bennet beyond a doubt there cannot be two opinions on that point </s>	139905165.12219265
+<s> <s> the officers may not be so pleasant in general s regiment </s>	101206914.08644697
+<s> <s> if what i have <unk> said can appear to you in the form of encouragement i know not how to express my refusal in such a way as may <unk> you of its being one </s>	2520004.470540447
+<s> <s> darcy who sat opposite to them </s>	25328374.939314973
+<s> <s> lydia was exceedingly fond of him </s>	20186777.748705048
+<s> <s> it <unk> even another motive </s>	353014.5028598679
+<s> <s> we have certainly done our best and most <unk> having it in our power to introduce you to very superior society and from our connection with rosings the frequent means of <unk> the humble home scene i think we may flatter ourselves that your hunsford visit cannot have been entirely <unk> </s>	819844.9015321188
+<s> <s> the <unk> of neglect and mistaken indulgence towards such a girl oh </s>	165757.6784947187
+<s> <s> i admire the activity of your <unk> observed mary but every <unk> of feeling should be <unk> by reason and in my opinion exertion should always be in <unk> to what is required </s>	923580.8398791547
+<s> <s> how so </s>	2318660.4069040115
+<s> <s> well colonel fitzwilliam what do i play next </s>	2339585.512948452
+<s> <s> did she call to refuse her consent </s>	371524.8553715256
+<s> <s> oh </s>	2500388979.216371
+<s> <s> elizabeth could bear it no longer </s>	14039044.933059076
+<s> <s> </s>	5246943647.220474
+<s> <s> only want to think perfect and you set yourself against it </s>	231355.85866660185
+<s> <s> i do not know who is good enough for him </s>	39257004.05025903
+<s> <s> it is a pity they are not handsome </s>	8350401.512549796
+<s> <s> bennet they had several children </s>	351028.9665214065
+<s> <s> much more rational my dear caroline i dare say but it would not be near so much like a ball </s>	10552685.755889125
+<s> <s> miss bingley offered her the carriage and she only wanted a little <unk> to accept it when jane <unk> such concern in parting with her that miss bingley was obliged to <unk> the offer of the chaise into an invitation to remain at netherfield for the present </s>	12889664.915181123
+<s> <s> he is now perhaps sorry for what he has done and anxious to a character </s>	188635808.92658702
+<s> <s> elizabeth received her congratulations amongst the rest and then sick of this folly took <unk> in her own room that she might think with freedom </s>	1616945.1468360252
+<s> <s> mr </s>	736070643.2743852
+<s> <s> had the late mr </s>	79054167.48321292
+<s> <s> the prospect of the netherfield ball was extremely agreeable to every female of the family </s>	11232144.21655097
+<s> <s> darcy and mr </s>	178679521.95124882
+<s> <s> oh </s>	2500388979.216371
+<s> <s> she was therefore obliged to seek another <unk> of the subject and related with much bitterness of spirit and some <unk> the shocking <unk> of mr </s>	5196986.726067116
+<s> <s> bingley comes my dear said mrs </s>	58995561.703567944
+<s> <s> darcy is all politeness said elizabeth smiling </s>	1031679.5726005161
+<s> <s> you agree that the foundation the trademark owner and any <unk> under this agreement will not be <unk> to you for actual direct <unk> <unk> <unk> or <unk> <unk> even if you give notice of the possibility of such <unk> </s>	6938281.270437917
+<s> <s> i had not the smallest idea of their being ever felt in such a way </s>	742572754.6159434
+<s> <s> denny concerning whose return from london lydia came to <unk> and he <unk> as they passed </s>	2079005.794995592
+<s> <s> but your owe me nothing </s>	332813.14117042016
+<s> <s> gardiner with their four children did at length appear at longbourn </s>	2433075.942008147
+<s> <s> astonishment apprehension and even horror <unk> her </s>	87704.078031275
+<s> <s> really mr </s>	84108.49199383894
+<s> <s> lydia declared herself satisfied </s>	835319.1706397214
+<s> <s> elizabeth asked questions in vain maria would tell her nothing more and down they ran into the which <unk> the lane in quest of this wonder it was two ladies <unk> in a low <unk> at the garden gate </s>	551715.3684719021
+<s> <s> what is it you are talking of </s>	767688383.5702196
+<s> <s> a man who has once been refused </s>	33779702.33280773
+<s> <s> bennet wrote again to his brother therefore he sent his permission for them to come and it was settled that as soon as the ceremony was over they should proceed to longbourn </s>	13853180.643605033
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> he is come mr </s>	7957969973.101612
+<s> <s> mr </s>	736070643.2743852
+<s> <s> you will only think i feel than i ought to do when i tell you all </s>	120259991.0721046
+<s> <s> mr </s>	736070643.2743852
+<s> <s> wickham began the subject himself </s>	450394.0708573276
+<s> <s> however if you provide access to or distribute copies of a project work in a <unk> other than plain <unk> <unk> or other <unk> used in the <unk> <unk> posted on the <unk> project web site www gutenberg org you must at no additional cost fee or <unk> to the <unk> provide a copy a means of <unk> a copy or a means of <unk> a copy upon request of the work in its original plain <unk> <unk> or other form </s>	268959.9420241959
+<s> <s> gardiner smiled </s>	2066759.2495366102
+<s> <s> it was absolutely necessary therefore to think of something and in this <unk> recollecting she had seen him last in hertfordshire and feeling curious to know what he would say on the subject of their hasty departure she observed how very suddenly you all quitted netherfield last november mr </s>	4784282.245618763
+<s> <s> come as soon as you can on the receipt of this </s>	202464039.1436383
+<s> <s> and you saw him frequently </s>	5677982.005267015
+<s> <s> darcy and so it does i <unk> </s>	1029514.7803338566
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> another day i will do the same i will sit in my library in my night <unk> and <unk> gown and give as much trouble as i can or perhaps i may <unk> it till kitty <unk> away </s>	1580279.543538337
+<s> <s> my dear aunt this is being serious indeed </s>	2944496.1849222984
+<s> <s> the subject which had been so warmly <unk> between their parents about a twelvemonth ago was now brought forward again </s>	1457561.1721607675
+<s> <s> to <unk> a silence which might make him fancy her affected with what had passed she soon afterwards said i imagine your cousin brought you down with him chiefly for the sake of having somebody at his <unk> </s>	1120140.5271437068
+<s> <s> it was not to be supposed that time would give lydia that embarrassment from which she had been so wholly free at first </s>	18456319.549315188
+<s> <s> he <unk> out half his words and <unk> the rest </s>	833770.4316940623
+<s> <s> this matter may be considered therefore as finally settled </s>	239395.9793263716
+<s> <s> collins s scruples of leaving mr </s>	1553296.6470035245
+<s> <s> miss bingley saw or suspected enough to be <unk> and her great anxiety for the <unk> of her dear friend jane received some assistance from her desire of getting rid of elizabeth </s>	647353.4792825067
+<s> <s> he will be forgot and we shall all be as we were before </s>	3119161.2624372705
+<s> <s> i believe him to be lady catherine s </s>	6743527331.51659
+<s> <s> i think she will </s>	3527694.045416923
+<s> <s> my aunt philips came to longbourn on tuesday after my father went away and was so good as to stay till thursday with me </s>	4176096.5579823116
+<s> <s> darcy and herself </s>	57218396750.684616
+<s> <s> the united efforts of his two <unk> sisters and of his <unk> friend assisted by the attractions of miss darcy and the <unk> of london might be too much she feared for the strength of his attachment </s>	4147352.4311099225
+<s> <s> miss bingley immediately fixed her eyes on his face and desired he would tell her what lady had the credit of <unk> such reflections </s>	1115009.6231532844
+<s> <s> you are a very strange creature by way of a friend always wanting me to play and sing before any body and every body if my vanity had taken a <unk> turn you would have been <unk> but as it is i would really rather not sit down before those who must be in the habit of hearing the very best <unk> </s>	5236742.938071361
+<s> <s> if we make haste said lydia as they walked along perhaps we may see something of <unk> <unk> before he <unk> </s>	437330.4981831512
+<s> <s> i cannot be otherwise than concerned at being the means of <unk> your amiable daughters and beg leave to <unk> for it as well as to assure you of my readiness to make them every possible amends but of this <unk> </s>	1148098.5245572003
+<s> <s> but why all this secrecy </s>	112181009.57138684
+<s> <s> i do think mrs </s>	5450399517.733006
+<s> <s> send back your answer as soon as you can and be <unk> to write <unk> </s>	1279631.159646366
+<s> <s> jane confessed herself a little surprised at the match but she said less of her astonishment than of her earnest desire for their happiness nor could elizabeth persuade her to consider it as improbable </s>	2595506.5618767724
+<s> <s> no why should he </s>	692735.1234255303
+<s> <s> yes replied wickham his estate there is a noble one </s>	3485012.5485963495
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> and what is fifty miles of good road </s>	4609884.699596799
+<s> <s> she <unk> from the window fearful of being seen and as she walked up and down the room endeavouring to <unk> herself saw such looks of enquiring surprise in her uncle and aunt as made every thing worse </s>	3658492.4284341945
+<s> <s> in a few days more we may <unk> some news of them and till we know that they are not married and have no design of marrying do not let us give the matter over as lost </s>	11290747.212801507
+<s> <s> long has promised to introduce him </s>	66040199.58739731
+<s> <s> many small donations <unk> to <unk> <unk> are particularly important to <unk> tax <unk> <unk> with the <unk> </s>	198548.0259601147
+<s> <s> my father and mother believe the worst but i cannot think so ill of him </s>	2144176444.585617
+<s> <s> good heaven </s>	197605228520.01355
+<s> <s> bennet s property <unk> almost entirely in an estate of two thousand a year which <unk> for his daughters was entailed in <unk> of <unk> <unk> on a distant relation and their mother s fortune though <unk> for her situation in life could but ill supply the <unk> of his </s>	807439.6596191932
+<s> <s> darcy to allow nothing for the influence of friendship and affection </s>	2217156.713778613
+<s> <s> they now walked on in silence each of them deep in thought </s>	77958711.18270752
+<s> <s> but who was your mother </s>	112141149.08977467
+<s> <s> very <unk> to come at all </s>	33572034.26830933
+<s> <s> denny to whom lydia eage rly applied and who told them that wickham had been obliged to go to town on business the day before and was not yet returned adding with a <unk> smile i do not imagine his business would have called him away just now if he had not wished to avoid a certain gentleman here </s>	4021463.7160257893
+<s> <s> elizabeth looked <unk> at lydia but she who never heard nor saw any thing of which she chose to be insensible <unk> continued oh </s>	2115097.6459518643
+<s> <s> why will you think so </s>	13190345.432763133
+<s> <s> all meryton seemed <unk> to <unk> the man who but three months before had been almost an <unk> of light </s>	263615.0210184668
+<s> <s> bingley were at <unk> and mrs </s>	1464897.6143759442
+<s> <s> well my dear said he when she ceased speaking i have no more to say </s>	3717674341.1328726
+<s> <s> bennet in every endeavour for recovering lydia </s>	2582328.1346915346
+<s> <s> but his pride his abominable pride his <unk> <unk> of what he had done with respect to jane his unpardonable assurance in <unk> though he could not justify it and the <unk> manner in which he had mentioned mr </s>	4396912.0704692695
+<s> <s> i have not been at all able to account for the honour of seeing you here </s>	168372381.6818396
+<s> <s> cried mrs </s>	376223561206.91046
+<s> <s> she did not fear her father s <unk> but he was going to be made unhappy and that it should be through her means that his favourite child should be distressing him by her choice should be <unk> him with fears and <unk> in <unk> of her was a wretched reflection and she sat in misery till mr </s>	3486483.7641767953
+<s> <s> can i have the carriage </s>	39478814.082876876
+<s> <s> but vanity not love has been my folly pleased with the preference of one and offended by the neglect of the other on the very beginning of our acquaintance i have <unk> <unk> and ignorance and driven reason away where either were concerned </s>	3312589.7204512223
+<s> <s> lady catherine seemed quite astonished at not receiving a direct answer and elizabeth suspected herself to be the first creature who had ever dared to trifle with so much <unk> impertinence </s>	1807144.6033481793
+<s> <s> bennet we shall have her at netherfield at last she did indeed </s>	2473889.902895453
+<s> <s> darcy whose pride she was convinced would receive a <unk> <unk> from the want of importance in his friend s connections than from their want of sense and she was quite decided at last that he had been <unk> <unk> by this worst kind of pride and <unk> by the wish of <unk> mr </s>	6209517.35772734
+<s> <s> i think she will be pleased with the <unk> </s>	57555583.51452152
+<s> <s> wickham i can only <unk> it by <unk> before you the whole of his connection with my family </s>	10739886.563462893
+<s> <s> i cannot believe it </s>	142426423.11352804
+<s> <s> to this discovery succeeded some others equally mortifying </s>	1539531.3593971278
+<s> <s> how could you begin </s>	97579019.87458614
+<s> <s> when at length they arose to take leave mrs </s>	183644104.79382005
+<s> <s> but at least it shews that was serious in the object of her journey </s>	9191224.61162084
+<s> <s> on mr </s>	146230724.57024732
+<s> <s> elizabeth could <unk> say that it was a great happiness where that was the case and with equal <unk> could add that she <unk> believed and rejoiced in his domestic comforts </s>	5383004.610335206
+<s> <s> jenkinson s room </s>	1538418.9847246546
+<s> <s> if you and miss bennet will <unk> yours till i am out of the room i shall be very thankful and then you may say whatever you like of me </s>	14658382.9378147
+<s> <s> darcy is </s>	60346510.42731869
+<s> <s> gardiner soon wrote again to his brother </s>	319519319.567683
+<s> <s> collins who was <unk> mr </s>	4832611.220488597
+<s> <s> the express was sent off directly </s>	841744737.8370099
+<s> <s> you do not know what he really is then pray do not pain me by speaking of him in such terms </s>	340438957.1351265
+<s> <s> i am afraid you will not be able to make it out but i hardly know what i have written </s>	2284757084.1215463
+<s> <s> maria thought speaking out of the question and the gentlemen did nothing but eat and admire </s>	4056426.814662189
+<s> <s> the <unk> of the day were too full of interest to leave elizabeth much attention for any of these new friends and she could do nothing but think and think with wonder of mr </s>	1441916.3736478619
+<s> <s> it was a large handsome <unk> <unk> standing well on rising ground and <unk> by a <unk> of high <unk> <unk> and in <unk> a stream of some natural importance was <unk> into greater but without any <unk> appearance </s>	449158.3177113718
+<s> <s> gardiner could not be seen and mr </s>	344666160.69598275
+<s> <s> with amazement did she first understand that he believed any apology to be in his power and <unk> was she persuaded that he could have no explanation to give which a just sense of shame would not conceal </s>	2001895.6622429416
+<s> <s> bennet sat quite still and unable to <unk> a syllable </s>	4531942.248622372
+<s> <s> he is rich to be sure and you may have more fine clothes and fine carriages than jane </s>	14065498.613844045
+<s> <s> but whatever may be the sentiments which mr </s>	4713996.014175482
+<s> <s> lizzy said he what are you doing </s>	145501614.06958827
+<s> <s> but that gentleman looking at darcy seemed to think the country was nothing at all </s>	5103888.705391622
+<s> <s> iii </s>	81277.89410586988
+<s> <s> the <unk> will be perfectly fair </s>	280331.23621813924
+<s> <s> i hear such different <unk> of you as <unk> me exceedingly </s>	3610750.839902329
+<s> <s> i must speak to hill this moment </s>	71609213.96895045
+<s> <s> mr </s>	736070643.2743852
+<s> <s> no no </s>	23728883.231458616
+<s> <s> mr </s>	736070643.2743852
+<s> <s> collins you must marry </s>	22892522989.47785
+<s> <s> collins she addressed a variety of questions to maria and elizabeth but especially to the latter of whose connections she knew the least and who she observed to mrs </s>	1027590.695573786
+<s> <s> you know it is not sound and that you would never act in this way yourself </s>	34288481.039822996
+<s> <s> could she have seen half as much love in mr </s>	7527522.51318075
+<s> <s> lady catherine sir william and mr </s>	23509990.01602322
+<s> <s> i pity though i cannot help <unk> her </s>	3198285.7791766636
+<s> <s> it was not to be supposed that any other people could be meant than those with whom she was connected </s>	11457461.972369522
+<s> <s> never sir </s>	3963343.305359773
+<s> <s> i have written to colonel forster to desire him to find out if possible from some of the young man s <unk> in the regiment whether wickham has any relations or connections who would be likely to know in what part of the town he has now concealed himself </s>	64735820.62934714
+<s> <s> collins sat for some time without speaking to any body </s>	736041943.304317
+<s> <s> she was enga ged one day as she walked in jane s last letter and dwelling on some <unk> which proved that jane had not written in spirits when instead of being again surprised by mr </s>	17571421.005956065
+<s> <s> from the farther disadvantage of lydia s society she was of course <unk> kept and though mrs </s>	27999408.827218305
+<s> <s> then perceiving in elizabeth no inclination of <unk> she added unhappy as the event must be for lydia we may draw from it this useful <unk> that loss of virtue in a female is <unk> that one false step <unk> her in <unk> ruin that her <unk> is no less <unk> than it is beautiful and that she cannot be too much guarded in her behaviour towards the <unk> of the other sex </s>	448648.8755702563
+<s> <s> she certainly did not hate him </s>	272741.9820619228
+<s> <s> your mother must have been quite a <unk> to your education </s>	2658062.728147502
+<s> <s> elizabeth said nothing but it gratified her exceedingly the compliment must be all for herself </s>	5080044.550752946
+<s> <s> came on into hertfordshire <unk> <unk> them at all the <unk> and at the <unk> in <unk> and <unk> but without any success no such people had been seen to pass through </s>	1210499.4133863957
+<s> <s> lydia was a <unk> girl of <unk> with a fine complexion and countenance a favourite with her mother whose affection had brought her into public at an early age </s>	751689.9731762644
+<s> <s> i have sent for you on an affair of importance </s>	2396089.8752205023
+<s> <s> a scheme of which every part <unk> delight can never be <unk> and general disappointment is only <unk> off by the <unk> of some little peculiar vexation </s>	852409.6893386106
+<s> <s> oh </s>	2500388979.216371
+<s> <s> my mother means well but she does not know no one can know how much i suffer from what she says </s>	11141150.8768693
+<s> <s> that will make <unk> with ourselves so there will be just room at table for him </s>	4237192.767073291
+<s> <s> at present indeed they were well <unk> both with news and happiness by the recent arrival of a militia regiment in the neighbourhood it was to remain the whole winter and meryton was the head <unk> </s>	434556.6165436062
+<s> <s> if we are ever able to learn what wickham s debts have been said elizabeth and how much is settled on his side on our sister we shall exactly know what mr </s>	4365225.94228049
+<s> <s> she has been allowed to <unk> of her time in the most idle and <unk> manner and to <unk> any opinions that came in her way </s>	21699234.130584102
+<s> <s> she told the story however with great spirit among her friends for she had a lively <unk> disposition which delighted in any thing <unk> </s>	529738.1539120297
+<s> <s> i heard from authority which i thought that it was left you <unk> only and at the will of the present <unk> </s>	9892932.202008752
+<s> <s> jane met her with a smile of such <unk> complacency a <unk> of such happy expression as sufficiently marked how well she was satisfied with the <unk> of the evening elizabeth instantly read her feelings and at that moment solicitude for wickham resentment against his <unk> and every thing else gave way before the hope of jane s being in the <unk> way for happiness </s>	14057082.841001531
+<s> <s> he had before believed her to return his affection with sincere if not with equal regard but bingley has great natural modesty with a stronger dependence on my judgment than on his own to <unk> him therefore that he had deceived himself was no very difficult point </s>	746335.3769552675
+<s> <s> his attachment excited gratitude his general character respect but she could not approve him nor could she for a moment <unk> her refusal or feel the <unk> inclination ever to see him again </s>	4494836.38449983
+<s> <s> miss darcy and her brother appeared and this formidable introduction took place </s>	39593006.09909832
+<s> <s> bennet however with the assistance of her five daughters could ask on the subject was <unk> to draw from her husband any satisfactory description of mr </s>	3899268.0237236563
+<s> <s> it would have spared her from <unk> and professions which it was exceedingly awkward to give but they were now necessary and she assured him with some confusion of her attachment to mr </s>	4438587.797261911
+<s> <s> the joy which miss darcy expressed on receiving <unk> information was as sincere as her brother s in <unk> it </s>	436359.6280160653
+<s> <s> there could not <unk> in the world men over whom mr </s>	11387738.025534496
+<s> <s> mr </s>	736070643.2743852
+<s> <s> gardiner though he assured her again of his earnest endeavours in the cause could not avoid <unk> <unk> to her as well in her hopes as her fears and after talking with her in this manner till dinner was on table they left her to <unk> all her feelings on the housekeeper who attended in the absence of her daughters </s>	1250099.488953025
+<s> <s> do you really think so </s>	83622902.36713827
+<s> <s> my <unk> lizzy </s>	902414.6281461065
+<s> <s> why did not you all learn you ought all to have <unk> </s>	10917151.872415416
+<s> <s> law of wickham </s>	9110545.724390402
+<s> <s> i shall then give over every expectation every wish of his <unk> </s>	6404662.795496178
+<s> <s> it was moreover such a promising thing for her younger daughters as jane s marrying so greatly must throw them in the way of other rich men and <unk> it was so pleasant at her time of life to be able to <unk> her single daughters to the care of their sister that she might not be obliged to go into company more than she liked </s>	4381852.781367097
+<s> <s> my dear brother at last i am able to send you some <unk> of my niece and such as upon the whole i hope will give you satisfaction </s>	3958581.6062417706
+<s> <s> i have heard you mention them with consideration these twenty years at least </s>	9473000.623692866
+<s> <s> but perhaps you have been too pleasantly enga ged to think of any third person in which case you may be sure of my pardon </s>	20547224.707984637
+<s> <s> not at all was her answer but depend upon it he means to be severe on us and our <unk> way of <unk> him will be to ask nothing about it </s>	9384535.585652886
+<s> <s> they could have been understood only by her mother who might have felt nearly the same </s>	64880377.20687108
+<s> <s> he seems to be a most <unk> and polite young man upon my word and i doubt not will prove a valuable acquaintance especially if lady catherine should be so <unk> as to let him come to us again </s>	2102987.1993743577
+<s> <s> and mrs </s>	2445689840.817142
+<s> <s> elizabeth who had expected to find in her as <unk> and <unk> an <unk> as ever mr </s>	48706341.77282997
+<s> <s> oh </s>	2500388979.216371
+<s> <s> we have heard only once </s>	73668787.05986202
+<s> <s> her indifferent state of health <unk> <unk> her being in town and by that means as i told lady catherine myself one day has <unk> the <unk> court of its <unk> <unk> </s>	1072528.3937535577
+<s> <s> elizabeth could not see lady catherine without recollecting that had she chosen it she might by this time have been <unk> to her as her future niece nor could she think without a smile of what her ladyship s indignation would have been </s>	7607799.495651257
+<s> <s> i do not believe mrs </s>	27995999.913213868
+<s> <s> lord <unk> me </s>	4977868.60407075
+<s> <s> i talked to her repeatedly in the most serious manner <unk> to her all the <unk> of what she had done and all the <unk> she had brought on her family </s>	6930110.756892072
+<s> <s> elizabeth had scarcely time to <unk> all right to the compliment before their approach was <unk> by the and shortly afterwards the three gentlemen entered the room </s>	1566676.487798211
+<s> <s> fitzwilliam darcy formerly spoken of as a very proud boy </s>	11521316.317095498
+<s> <s> bennet protested against any description of <unk> </s>	250317.9230234234
+<s> <s> it was an evening of no common delight to them all the satisfaction of miss bennet s mind gave a <unk> of such <unk> animation to her face as made her look <unk> than ever </s>	2603416.7655299893
+<s> <s> collins </s>	2130132925.1312516
+<s> <s> collins cried elizabeth with some warmth you <unk> me exceedingly </s>	5885129.642504315
+<s> <s> wickham were returned and to <unk> over his absence from the netherfield ball </s>	2169936.2859315765
+<s> <s> elizabeth looked <unk> and turned away </s>	11149575.324903933
+<s> <s> he had never before supposed that could wickham be prevailed on to marry his daughter it would be done with so little inconvenience to himself as by the present arrangement </s>	6924333.998108027
+<s> <s> their powers of conversation were considerable </s>	416529.9557631401
+<s> <s> indeed he has no <unk> pride </s>	448541.148175328
+<s> <s> to send donations or determine the <unk> of compliance for any particular state visit www gutenberg org <unk> while we cannot and do not <unk> <unk> from states where we have not met the <unk> requirements we know of no <unk> against <unk> <unk> donations from <unk> in such states who approach us with offers to <unk> </s>	437159.80251532857
+<s> <s> and this consideration <unk> me moreover to reflect with <unk> satisfaction on a certain event of last november for had it been otherwise i must have been <unk> in all your sorrow and disgrace </s>	955263.296721844
+<s> <s> i will think no more about him </s>	95255088.54163823
+<s> <s> how little did you tell me of what passed at pemberley and lambton </s>	2035132.5683327038
+<s> <s> mr </s>	736070643.2743852
+<s> <s> forster the wife of the colonel of the regiment to <unk> her to brighton </s>	7071286.351061265
+<s> <s> darcy observed miss bingley in a half whisper that this <unk> has rather affected your admiration of her fine eyes </s>	3900730.705199732
+<s> <s> fixed there by the <unk> of all <unk> <unk> reproach she could find no <unk> of ease or <unk> </s>	225978.82650605723
+<s> <s> dear yes but you must own she is very plain </s>	5428599.604849829
+<s> <s> mr </s>	736070643.2743852
+<s> <s> if mr </s>	1115077906.775197
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> the turn of your countenance i shall never forget as you said that i could not have addressed you in any possible way that would <unk> you to accept me </s>	10263365.812572438
+<s> <s> as he said this she could easily see that he had no doubt of a favourable answer </s>	23194677.773253784
+<s> <s> they seemed each of them to have the happiest <unk> in the world </s>	11730825.008805092
+<s> <s> collins with all his <unk> composure being run away with by his feelings made elizabeth so near laughing that she could not use the short pause he allowed in any attempt to <unk> him farther and he continued my reasons for marrying are first that i think it a right thing for every clergyman in easy circumstances like myself to set the <unk> of matrimony in his parish </s>	1020403.9773504359
+<s> <s> forster promised to have a little dance in the evening by the bye mrs </s>	5148278.942374587
+<s> <s> darcy was here when you sent for us was it so </s>	2157849.114805013
+<s> <s> i have nothing either to hope or fear and nothing to reproach him with </s>	795157.6811294617
+<s> <s> but that is one great difference between us </s>	50890360.31758368
+<s> <s> i am very sensible madam of the <unk> to my fair cousins and could say much on the subject but that i am cautious of appearing forward and <unk> </s>	2884795.5056816204
+<s> <s> the gentleman experienced some change of feeling he drew back his chair took a <unk> from the table and glancing over it said in a <unk> voice are you pleased with kent </s>	245389.96390669805
+<s> <s> on their being joined by mr </s>	2089450.4294854207
+<s> <s> as yet she cannot even be certain of the degree of her own regard nor of its <unk> </s>	652255.4290362713
+<s> <s> and yet you can treat the mention of his misfortunes with contempt and ridicule </s>	1301640.7351490061
+<s> <s> mr </s>	736070643.2743852
+<s> <s> bennet still continued to wonder and <unk> at his returning no more and though a day seldom passed in which elizabeth did not account for it clearly there seemed little chance of her ever considering it with less <unk> </s>	15598904.533831602
+<s> <s> i began to be afraid you would never come back again </s>	2921667.957416174
+<s> <s> bennet and lydia are going in the carriage to meryton </s>	15524458.654361177
+<s> <s> after a short silence the lady first spoke </s>	20580995.748699475
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> elizabeth <unk> up her eyes in amazement but was too much <unk> to make any reply </s>	54480449.45673156
+<s> <s> my feelings will not be <unk> </s>	17326108.462467797
+<s> <s> bennet arrived he had all the appearance of his usual <unk> composure </s>	49791570.182311594
+<s> <s> she was not sorry however to have the <unk> of them interrupted by the entrance of the lady from whom they <unk> </s>	9723730.71853034
+<s> <s> but i am at his <unk> </s>	6515583.699369887
+<s> <s> it was evident that she was much better acquainted with mr </s>	30523080453.66186
+<s> <s> oh </s>	2500388979.216371
+<s> <s> wickham has deserved much less attention from mr </s>	7535350.91734862
+<s> <s> <unk> me <unk> you can </s>	1953771.6259961887
+<s> <s> i shall now know how to act </s>	68521041.4019266
+<s> <s> jane <unk> kept her place at the table but elizabeth to satisfy her mother went to the window she looked she saw mr </s>	5044360.320816768
+<s> <s> i do not get on at all </s>	12349894.89988952
+<s> <s> gardiner he was scarcely a less interesting <unk> than to herself </s>	2404786.3167454833
+<s> <s> but i wonder how long you have gone on if you had been left to yourself </s>	45911393.70078378
+<s> <s> after a slight <unk> for good news the letter was read aloud </s>	2067205.182174164
+<s> <s> at four o clock therefore we may expect this gentleman said mr </s>	2014673.7239889156
+<s> <s> my <unk> at hunsford could not work such a change as this </s>	1860538.9197228553
+<s> <s> jane s is nothing to it nothing at all </s>	66112865.11864458
+<s> <s> is nothing due to me on that score </s>	302334.9277160848
+<s> <s> bennet followed her saying i am quite sorry lizzy that you should be forced to have that disagreeable man all to yourself </s>	4397236.162284732
+<s> <s> when darcy returned to the <unk> miss bingley could not help repeating to him some part of what she had been saying to his sister </s>	8584399.709645597
+<s> <s> philips began to express her concern <unk> he assured her with much earnest gravity that it was not of the least importance that he considered the money as a mere trifle and begged she would not make herself uneasy </s>	1226767.2926005602
+<s> <s> i know of nobody that is coming i am sure unless charlotte lucas should happen to call in and i hope <unk> are good enough for her </s>	7479487.258318036
+<s> <s> yes but as it happens they are all of them very clever </s>	175939843.56961906
+<s> <s> gardiner was surprised and concerned but as they were now approaching the scene of her former pleasures every idea gave way to the charm of recollection and she was too much enga ged in pointing out to her husband all the interesting <unk> in its <unk> to think of any thing else </s>	15817977.665006986
+<s> <s> but you blame me for having spoken so warmly of wickham </s>	1084782845.2859182
+<s> <s> there certainly was some great <unk> in the education of those two young men </s>	604916.2443459907
+<s> <s> but the <unk> <unk> which this event threw her into was shortly relieved and her mind opened again to the agitation of hope by an <unk> of news which then began to be in <unk> </s>	595359.2668550039
+<s> <s> to my fancy it is only because he does not <unk> away like other young men </s>	4276771.329029354
+<s> <s> but there was still something <unk> behind of which <unk> <unk> the <unk> </s>	6859646.796215179
+<s> <s> he must know that she was as amiable and <unk> as we have found her </s>	72572842.19150707
+<s> <s> mr </s>	736070643.2743852
+<s> <s> chapter <unk> </s>	2507554.8319394006
+<s> <s> had it been your uncle s doing i must and have paid him but these violent young <unk> carry every thing their own way </s>	1316788.3430312525
+<s> <s> when mr </s>	17721456852.34712
+<s> <s> at length however the remarks of her companions on her absence of mind roused her and she felt the necessity of appearing more like herself </s>	14586114.851111328
+<s> <s> the sudden <unk> of ten thousand pounds was the most remarkable charm of the young lady to whom he was now <unk> himself agreeable but elizabeth less perhaps in his case than in charlotte s did not <unk> with him for his wish of independence </s>	5518523.012575385
+<s> <s> go my dear cried her mother and shew her ladyship about the different walks </s>	1022100.5927328914
+<s> <s> darcy is uncommonly kind to mr </s>	6653514.474994874
+<s> <s> certainly said elizabeth though <unk> with curiosity we will ask you no questions </s>	765226.0713585337
+<s> <s> i must have my share in the conversation if you are speaking of music </s>	27736891.641705662
+<s> <s> said jane i certainly saw mr </s>	638048608.844482
+<s> <s> come be quick be quick </s>	1306834.237350606
+<s> <s> mrs </s>	1409221856.0343616
+<s> <s> when you told mrs </s>	1113707510.5249772
+<s> <s> elizabeth again and more seriously assured her of its truth </s>	4674220.827778826
+<s> <s> i will not trust myself on the subject replied wickham can hardly be just to him </s>	5887832.578259472
+<s> <s> when is your next ball to be lizzy </s>	16702462.283563707
+<s> <s> mr </s>	736070643.2743852
+<s> <s> darcy but let me not <unk> you sir you will not thank me for <unk> you from the <unk> converse of that young lady whose <unk> eyes are also <unk> me </s>	1578915.8219099971
+<s> <s> two <unk> of the five being thus removed mrs </s>	2602325.157053971
